@@ -1,0 +1,14 @@
+{
+    "AlreadyPurchasedCoverage":{
+        "label" : "Bereits gekaufte Zusatzdeckung",
+        "PolicyOption" : "Richtlinienoption",
+        "Premium" : "Prämie",
+        "Action" : "Aktion"
+    },
+    "AvailableToPurchaseCoverage":{
+        "label" : "Zum Kauf verfügbare Zusatzdeckung",
+        "PolicyOption" : "Richtlinienoption",
+        "Premium" : "Prämie",
+        "AddToMyPolicy" : "Zu meiner Richtlinie hinzufügen"
+    }
+}

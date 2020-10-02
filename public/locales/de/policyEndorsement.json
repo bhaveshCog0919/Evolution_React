@@ -1,0 +1,25 @@
+{
+    "SystemEndorsement": {
+        "System": "System",
+        "label": "Select System Endorsement",
+        "defaultValue": "Select System Endorsement",
+        "error": "Please Select System Endorsement"
+    },
+    "CustomEndorsement": {
+        "Custom": "Custom",
+        "label": "Select Custom Endorsement",
+        "defaultValue": "Select Custom Endorsement",
+        "error": "Please Select Custom Endorsement"
+    },
+    "MidTermAdjustment": {
+        "title": "Mid-Term Adjustment",
+        "Id": "Id",
+        "Note": "Note",
+        "ChargeAmount": "Charge Amount",
+        "ChargeFee": "Charge Fee",
+        "Total": "MTA Total",
+        "PaymentStatus": "Payment Status",
+        "Updatedby": "Updated by",
+        "Updated": "Updated"
+    }
+}

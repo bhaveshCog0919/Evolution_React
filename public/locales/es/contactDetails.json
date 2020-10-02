@@ -1,0 +1,361 @@
+{
+  "Contact#": "Contacto#",
+  "EditContactCode": "Editar código de contacto",
+  "ContactCode": "Código de contacto",
+  "ContactCodeError": "Por favor ingrese el código de contacto",
+  "ChangePicture": "Cambiar imagen",
+  "ContactType": {
+    "label": "Tipo de Contacto",
+    "defaultValue": "Seleccionar tipo de contacto",
+    "error": "Por favor seleccione el tipo de contacto"
+  },
+  "Individual": "Individual",
+  "Company": "Empresa",
+  "isCompanyError": "Por favor seleccione Empresa",
+  "CompanyName": {
+    "label": "nombre de empresa",
+    "error_blank": "Por favor, introduzca el nombre de la empresa",
+    "error_minLength": "",
+    "error_maxLength": "El nombre de la empresa no puede tener más de 100 caracteres.",
+    "error_pattern": "El nombre de la compañía no es válido"
+  },
+  "Name": "Nombre",
+  "Title": {
+    "label": "Título",
+    "defaultValue": "Seleccionar",
+    "error": "Por favor seleccione Título"
+  },
+  "FirstName": {
+    "label": "Nombre de pila",
+    "error_blank": "Por favor, introduzca el nombre",
+    "error_minLength": "Mínimo 3 caracteres requeridos",
+    "error_maxLength": "El nombre de pila no tiene más de 25 caracteres.",
+    "error_pattern": "Por favor, introduzca un nombre válido"
+  },
+  "LastName": {
+    "label": "Apellido",
+    "error_blank": "Por favor, introduzca el apellido",
+    "error_minLength": "Mínimo 3 caracteres requeridos",
+    "error_maxLength": "El apellido no tiene más de 25 caracteres.",
+    "error_pattern": "Por favor ingrese un apellido válido"
+  },
+  "Salutation": {
+    "label": "Saludo",
+    "error_blank": "Por favor ingrese Saludo válido",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Por favor ingrese Saludo válido"
+  },
+  "PassportNumber": {
+    "label": "Número de pasaporte",
+    "error_blank": "Voer het paspoortnummer in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Por favor ingrese un número de pasaporte válido"
+  },
+  "PassportCountry": {
+    "label": "Pasaporte País",
+    "error_blank": "",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "BusinessType": {
+    "label": "Tipo de negocio",
+    "error_blank": "Por favor, introduzca el tipo de negocio",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "CompanyIdentifier": {
+    "label": "Identificación de compañía",
+    "error_blank": "Por favor, introduzca el identificador de la empresa",
+    "error_minLength": "",
+    "error_maxLength": "El identificador de la compañía no tiene más de 100 caracteres.",
+    "error_pattern": ""
+  },
+  "Gender": "Género",
+  "GenderError": "Por favor seleccione el género",
+  "Male": "Masculina",
+  "Female": "Hembra",
+  "DOB": {
+    "label": "Fecha de nacimiento",
+    "error_blank": "Por favor, introduzca la fecha de nacimiento",
+    "erro_minLength": "Por favor ingrese una fecha de nacimiento válida",
+    "error_maxLength": "Por favor ingrese una fecha de nacimiento válida",
+    "error_pattern": ""
+  },
+  "Address": "Habla a",
+  "Country": {
+    "label": "País",
+    "error": "Por favor seleccione país"
+  },
+  "Line1": {
+    "label": "Línea 1",
+    "placeholder": "Dirección Línea 1",
+    "error_blank": "Por favor ingrese la dirección línea1",
+    "error_minLength": "",
+    "error_maxLength": "Se permiten un máximo de 150 caracteres.",
+    "error_pattern": ""
+  },
+  "Line2": {
+    "label": "Línea 2",
+    "placeholder": "Dirección Line2",
+    "error_blank": "Por favor, introduzca la dirección línea2",
+    "error_minLength": "",
+    "error_maxLength": "Se permiten un máximo de 150 caracteres.",
+    "error_pattern": ""
+  },
+  "Line3": {
+    "label": "Línea 3",
+    "placeholder": "Dirección Line3",
+    "error_blank": "Por favor, introduzca la dirección línea3",
+    "error_minLength": "",
+    "error_maxLength": "Se permiten un máximo de 150 caracteres.",
+    "error_pattern": ""
+  },
+  "County": {
+    "label": "Condado / Provincia",
+    "placeholder": "Condado / Provincia",
+    "error": "Por favor, introduzca el condado / provincia"
+  },
+  "Town": {
+    "label": "Pueblo",
+    "placeholder": "Pueblo",
+    "error": "Por favor ingrese la ciudad"
+  },
+  "PostalCode": {
+    "label": "Código postal",
+    "error_blank": "Por favor ingrese un código postal válido",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "PhoneHeader": "Teléfono",
+  "PhonesError": "Por favor ingrese al menos un número de teléfono",
+  "PhoneType": {
+    "label": "Tipo",
+    "defaultValue": "Seleccione",
+    "error": "Por favor seleccione el tipo de teléfono"
+  },
+  "CountryCode": {
+    "label": "Código de país",
+    "defaultValue": "Seleccione",
+    "error": "Por favor seleccione el código del país"
+  },
+  "AreaCode": {
+    "label": "Codigo de AREA",
+    "placeholder": "Codigo de AREA",
+    "error_blank": "Por favor ingrese un código de área válido",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "Phone": {
+    "label": "Teléfono",
+    "placeholder": "Número de teléfono",
+    "error_blank": "Por favor, introduzca el número de teléfono",
+    "error_minLength": "Se requieren un mínimo de 6 dígitos.",
+    "error_maxLength": "Se permiten un máximo de 10 dígitos.",
+    "error_pattern": "Por favor ingrese un número de teléfono válido"
+  },
+  "EnterLandLine": "Ingrese el código de área",
+  "HideLandLine": "Hide Area Code",
+  "EnterExt": "Enter Ext",
+  "HideExt": "Ocultar extensión",
+  "PhonePrimary": "Primaria",
+  "PhoneMakePrimary": "Hacer primaria",
+  "PhoneAlreadyExist": "El número de teléfono ya existe en la lista",
+  "EmailAlreadyExist": "ID de correo electrónico ya existe en la lista",
+  "EmailHeader": "Email",
+  "EmailsError": "Por favor ingrese al menos un correo electrónico",
+  "EmailType": {
+    "label": "Tipo",
+    "defaultValue": "Seleccione",
+    "error": "Por favor seleccione el tipo de correo electrónico"
+  },
+  "Email": {
+    "label": "Email",
+    "placeholder": "Email",
+    "error_blank": "Por favor ingrese su correo electrónico",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Por favor introduzca un correo electrónico válido"
+  },
+  "EmailPrimary": "Primaria",
+  "EmailMakePrimary": "Hacer primaria",
+  "ContactPreference": "Preferencia de Contacto",
+  "OktoContact": "Ok para contactar",
+  "DonotContact": "No contactar",
+  "ContactMode": "Modo de contacto",
+  "DocumentDelivery": {
+    "label": "Entrega de documento",
+    "Email": "Email",
+    "Post": "Enviar",
+    "Both": "Ambas",
+    "Error": "Por favor seleccione la opción de entrega de documentos"
+  },
+  "Notes": {
+    "label": "Notas",
+    "placeholder": "Notas",
+    "error_blank": "",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "CentralBankCode": {
+    "label": "Código del banco central",
+    "placeholder": "Código del banco central",
+    "error_blank": "Por favor ingrese el Código del Banco Central",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "CommossionRate": {
+    "label": "Porcentaje de comision",
+    "placeholder": "Porcentaje de comision",
+    "error_blank": "Por favor proporcione la tasa de Commossion",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Proporcione una tasa de compresión válida"
+  },
+  "Binder": {
+    "label": "Aglutinante",
+    "placeholder": "",
+    "defaultValue": "",
+    "error": ""
+  },
+  "AllowedLogin": {
+    "label": "¿Permitido iniciar sesión?",
+    "No": "No",
+    "Yes": "si"
+  },
+  "UserName": {
+    "label": "Nombre de usuario",
+    "placeholder": "Nombre de usuario",
+    "error_blank": "Por favor ingrese el nombre de usuario",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "Password": {
+    "label": "Contraseña",
+    "placeholder": "Contraseña",
+    "error_blank": "Por favor ingrese una contraseña válida",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "password_show": "mostrar",
+    "password_hide": "Esconder"
+  },
+  "PasswordRules": {
+    "label": "Reglas de contraseña",
+    "uppercase": "Se requiere un capital (upperCaseLetters)",
+    "lowercase": "Se requiere uno pequeño (lowerCaseLetters)",
+    "minlength": "Mínimo 8 caracteres requeridos",
+    "maxlength": "Máximo 15 caracteres permitidos",
+    "specialcharacter": "Se requiere un personaje especial",
+    "number": "Un número requerido"
+  },
+  "ConfirmPassword": {
+    "label": "Confirmar contraseña",
+    "placeholder": "Confirmar contraseña",
+    "error_blank": "Contraseña y Confirmar contraseña no coincide",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "password_show": "mostrar",
+    "password_hide": "Esconder"
+  },
+  "Question1": {
+    "label": "Pregunta de seguridad 1",
+    "defaultValue": "Seleccione la pregunta 1",
+    "error": "Por favor seleccione la pregunta 1"
+  },
+  "Answer1": {
+    "label": "Responder",
+    "placeholder": "Responder",
+    "error": "Por favor, responda la pregunta 1",
+    "error_blank": "Por favor da tu respuesta",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "mostrar",
+    "hide": "Esconder"
+  },
+  "Question2": {
+    "label": "Pregunta de seguridad 2",
+    "defaultValue": "Seleccione la pregunta 2",
+    "error": "Por favor seleccione la pregunta 2"
+  },
+  "Answer2": {
+    "label": "Responder",
+    "placeholder": "Responder",
+    "error": "Por favor responda la pregunta 2",
+    "error_blank": "Por favor da tu respuesta",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "mostrar",
+    "hide": "Esconder"
+  },
+  "Question3": {
+    "label": "Pregunta de seguridad 3",
+    "defaultValue": "Seleccione la pregunta 3",
+    "error": "Por favor seleccione la pregunta 3"
+  },
+  "Answer3": {
+    "label": "Responder",
+    "placeholder": "Responder",
+    "error": "Por favor responda la pregunta 3",
+    "error_blank": "Por favor da tu respuesta",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "mostrar",
+    "hide": "Esconder"
+  },
+  "QuestaionAlreadySelected": "Esta pregunta ya está seleccionada",
+  "UniqueQuestion": "Todas las preguntas deben ser únicas.",
+  "DeletePhone": {
+    "label": "¿Eliminar teléfono?",
+    "message": "¿Está seguro de que desea eliminar el número de teléfono?",
+    "No": "No",
+    "Yes": "si"
+  },
+  "DeleteEmail": {
+    "label": "¿Eliminar correo electrónico?",
+    "message": "¿Estás seguro de que deseas eliminar el correo electrónico?",
+    "No": "No",
+    "Yes": "si"
+  },
+  "SetupPolicy":{
+    "header": "¿Establecer una nueva política?",
+    "message": "¿Quieres configurar una nueva política?",
+    "No": "No",
+    "Yes": "si"
+  },
+  "ViewPage": {
+    "IndividualDetails": "Detalles individuales",
+    "CompanyDetails": "Detalles de la compañía",
+    "ContactDetails": "Detalles de contacto",
+    "PassportDetails": "Detalles del pasaporte",
+    "NoteDetails": "Notas",
+    "CollapseAll": "Desplegar todo",
+    "ExpandAll": "Expandir todo",
+    "ModalHeader": "Editar detalles de contacto",
+    "OptionDefault": "Seleccione",
+    "OptionCorrect": "Correcta",
+    "OptionIncorrect": "Incorrecta",
+    "OptionError": "por favor selecciona una opcion",
+    "CommentLabel": "Comentario",
+    "CommentErrorBlank": "Por favor ingrese la nota",
+    "CommentErrorMinLength": "",
+    "CommentErrorMaxLength": "",
+    "CommentErrorPattern": "",
+    "VerificationFailed": "Fallo en la verificación",
+    "VerificationDone": "Verificación realizada",
+    "SelectAnswerError": "Por favor seleccione respuesta",
+    "AddCommentError": "Por favor agregue un comentario para verificar el usuario"
+  }
+}

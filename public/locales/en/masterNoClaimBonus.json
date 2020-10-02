@@ -1,0 +1,50 @@
+{ 
+    "Header": "No Claim Bonus",
+    
+    "NoofYears": {
+        "label": "No. of Years",
+        "placeholder": "No. of Years",
+        "error_blank": "Please enter valid no. of years",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "DiscountRate": {
+        "label": "Discount Rate (%)",
+        "placeholder": "Discount Rate (%)",
+        "error_blank": "Please enter valid discount rate (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "AddNoClaimBonus": "Add No Claim Bonus",
+    "NoClaimBonusList": "No Claim Bonus List",
+    "NoRecordsFound": "No records found",
+
+    "DataTableHeaders": {
+        "NoofYears": "No. of Years",
+        "DiscountRate": "Discount Rate",
+        "Action": "Action"
+    },
+
+    "ModalHeading": {
+        "Add": "Add No Claim Bonus",
+        "Update": "Update No Claim Bonus"
+    },
+
+    "Toast":{
+        "Saved":"No Claim Bonus Saved Successfully",
+        "Updated": "No Claim Bonus Updated Successfully",
+        "Delete": "No Claim Bonus deleted Successfully",
+        "error": "No. of Year already exist"
+    },
+
+    "Delete": {
+        "label": "Delete No claim Bonus?",
+        "message": "Are you sure, You want to delete no claim bonus ?",
+        "No": "No",
+        "Yes": "Yes"
+    }
+}

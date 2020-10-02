@@ -1,0 +1,97 @@
+{
+    "Header": "Levy",
+
+    "Country": {
+        "label": "Country",
+        "defaultValue": "Select country",
+        "error": "Please select country"
+    },
+
+    "Type": {
+        "label": "Type",
+        "defaultValue": "Select type",
+        "error": "Please select type"
+    },
+
+    "Rate1": {
+        "label": "Rate 1 (%)",
+        "placeholder": "Rate 1 (%)",
+        "error_blank": "Please enter valid rate 1 (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "Rate2": {
+        "label": "Rate 2 (%)",
+        "placeholder": "Rate 2 (%)",
+        "error_blank": "Please enter valid rate 2 (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "RateBasis1": {
+        "label": "Rate Basis 1",
+        "defaultValue": "Select rate basis 1",
+        "error": "Please select rate basis 1"
+    },
+
+    "RateBasis2": {
+        "label": "Rate Basis 2",
+        "defaultValue": "Select rate basis 2",
+        "error": "Please select rate basis 2"
+    },
+
+    "AmountInEUR": {
+        "label": "Amount in EUR",
+        "placeholder": "Amount in eur",
+        "error_blank": "Please enter valid amount in eur",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "AmountInGBP": {
+        "label": "Amount in GBP",
+        "placeholder": "Amount in GBP",
+        "error_blank": "Please enter valid amount in gbp",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "DataTableHeaders": {
+        "Country": "Country",
+        "Type": "Type",
+        "Rate1": "Rate 1",
+        "RateBasis1": "Rate Basis 1",
+        "Rate2": "Rate 2",
+        "RateBasis2": "Rate Basis 2",
+        "AmountInEUR": "Amount In EUR",
+        "AmountInGBP": "Amount In GBP",
+        "Action": "Action"
+    },
+
+    "ModalHeading": {
+        "Add": "Add Levy",
+        "Update": "Update Levy"
+    },
+
+    "AddLevy": "Add Levy",
+    "LevyList": "Levy List",
+
+    "Toast":{
+        "Saved":"Levy Saved Successfully",
+        "Updated": "Levy Updated Successfully",
+        "Delete": "Levy deleted Successfully ",
+        "error": "Country already exist"
+    },
+
+    "Delete": {
+        "label": "Delete Levy ?",
+        "message": "Are you sure, You want to delete levy ?",
+        "No": "No",
+        "Yes": "Yes"
+    }
+}

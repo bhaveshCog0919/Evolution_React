@@ -1,0 +1,978 @@
+{
+    "Vessel": {
+
+        "Header": "Vessel",
+        
+        "Category": {
+            "label": "Category",
+            "defaultValue": "Select category",
+            "error": "Please select category"
+        },
+        
+        "TypeofBuild": {
+            "label": "Type of Build",
+            "defaultValue": "Select build type",
+            "error": "Please select build type"
+        },
+        
+        "VesselName": {
+            "label": "Vessel Name",
+            "placeholder": "Vessel Name",
+            "error_blank": "Please enter vessel name",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "YearBuilt": {
+            "label": "Year Built",
+            "placeholder": "Year Built",
+            "error_blank": "Please enter year built",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "Make": {
+            "label": "Make",
+            "defaultValue": "Select Vessel Make",
+            "error": "Please select vessel make"
+        },
+        
+        "Builder'sName": {
+            "label": "Builder's Name",
+            "placeholder": "Builder's Name",
+            "error_blank": "Please enter builder's name",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "Model": {
+            "label": "Model",
+            "placeholder": "Model",
+            "error_blank": "Please enter model",
+            "error_minlength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "LastSurveyDate": {
+            "label": "Last Survey Date",
+            "defaultValue": "dd-mm-yyyy",
+            "error": "Please select last survey date"
+        },
+        
+        "SerialNo": {
+            "label": "Serial No.",
+            "placeholder": "Serial No.",
+            "error_blank": "Please enter serial no.",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "HullMaterial": {
+            "label": "Hull Material",
+            "defaultValue": "Select hull material",
+            "error": "Please select hull material"
+        },
+        
+        "Length": {
+            "label": "Length",
+            "placeholder": "Length",
+            "error_blank": "Please enter length",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "PurchasePrice(€)": {
+            "label": "Purchase Price(€)",
+            "placeholder": "Purchse Price(€)",
+            "error_blank": "Please enter purchase price(€)",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "UseofVessel": {
+            "label": "Use of Vessel",
+            "defaultValue": "Select use of vessel",
+            "error": "Please select use of vessel"
+        },
+        
+        "YearPurchased": {
+            "label": "Year Purchased",
+            "placeholder": "Year Purchased",
+            "error_blank": "Please enter year purchased",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "SurveyDue": {
+            "label": "Survey Due",
+            "defaultValue": "dd-mm-yyyy",
+            "error": "Please select survey due"
+        }
+    },
+
+    "Engine": {
+        
+        "Header": "Engine and Trailer Details",
+        
+        "Main Engine(s)": {
+            "label": "Main Engine(s)",
+            "placeholder": "Main Engine(s)",
+            "error_blank": "Please enter main engine(s)",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "HP": {
+            "label": "HP",
+            "placeholder": "HP",
+            "error_blank": "Please enter HP",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "Year": {
+            "label": "Year",
+            "placeholder": "Year",
+            "error_blank": "Please enter year",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "NoofEngines": {
+            "label": "No of Engines",
+            "defaultValue": "Select no of engines",
+            "error": "please select no of engines"
+        },
+        
+        "Transmission": {
+            "label": "Transmission",
+            "defaultValue": "Selecct transmission",
+            "error": "Please select transmission"
+        },
+        
+        "AuxillaryEngine": {
+            "label": "Auxillary Engine",
+            "defaultValue": "Select  auxillary engine",
+            "error": "Please Select auxillary engine"
+        },
+        
+        "MaxSpeed": {
+            "label": "Max Speed",
+            "placeholder": "Max Speed",
+            "error_blank": "Please enter max speed",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "MakeofTrailer": {
+            "label": "Make of Trailer",
+            "placeholder": "Make of Trailer",
+            "error_blank": "PLease enter make of trailer",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "TrailerSerialNo": {
+            "label": "Trailer Serial No",
+            "placeholder": "Tariler Serial No",
+            "error_blank": "Please enter trailer serial no",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        }
+    },
+
+    "Tender": {
+       
+        "Header": "Tender/Auxillary Vessel",
+       
+        "Make": {
+            "label": "Make",
+            "placeholder": "Make",
+            "error_blank": "Please enter make",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+       
+        "Year": {
+            "label": "Year",
+            "placeholder": "Year",
+            "error_blank": "Please enter year",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+       
+        "Length": {
+            "label": "Length",
+            "placeholder": "Length",
+            "error_blank": "Please enter length",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+       
+        "Material": {
+            "label": "Material",
+            "defaultValue": "Select material",
+            "error": "Please select material"
+        },
+       
+        "Make&ModelofEngine": {
+            "label": "Make & Model of Engine",
+            "placeholder": "Make & Model of Engine",
+            "error_blank": "Please enter make & model of engine",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+        
+        "HP": {
+            "label": "HP",
+            "Placeholder": "HP",
+            "error_blank": "Please enter hp",
+            "error_minLength": "",
+            "error_maxLEngth": "",
+            "error_pattern": ""
+        }
+    },
+
+    "Navigational": {
+
+        "Header": "Navigational Equipment",
+
+        "EquipmentNav": "Equipment Nav.",
+        "Model": "Model/Description",
+        "Value": "Value (€)",
+
+        "Radar": {
+            "label": "Radar",
+            "Model": {
+                "error_blank": "Please enter radar model/description",
+                "error_minlength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter radar value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "Sonar": {
+            "label": "Sonar",
+            "Modal": {
+                "error_blank": "Please enter sonar model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter sonar value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "GPS": {
+            "label": "GPS",
+            "Modal": {
+                "error_blank": "Please enter GPS model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter GPS value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "Plotter": {
+            "label": "Plotter",
+            "Modal": {
+                "error_blank": "Please enter plotter model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter plotter value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "CombinedEquipment": {
+            "label": "Combined Equipment",
+            "Modal": {
+                "error_blank": "Please enter combined equipment model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter combined equipment value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "VHF": {
+            "label": "VHF",
+            "Modal": {
+                "error_blank": "Please enter VHF model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter VHF value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "RadioBeacon": {
+            "label": "Radio Beacon",
+            "Modal": {
+                "error_blank": "Please enter radio beacon model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter radio beacon value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "AutoPilot": {
+            "label": "Auto Pilot",
+            "Modal": {
+                "error_blank": "Please enter auto pilot model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter auto pilot value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "BLU": {
+            "label": "BLU",
+            "Modal": {
+                "error_blank": "Please enter BLU model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter BLU Value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+        
+        "Slide": {
+            "label": "Slide",
+            "Modal": {
+                "error_blank": "Please enter slide model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter slide value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+              }
+        },
+
+        "WindEquipment": {
+            "label": "Wind Equipment",
+            "Modal": {
+                "error_blank": "Please enter wind equipment model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter wind equipment value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "Tridata": {
+            "label": "Tridata",
+            "Modal": {
+                "error_blank": "Please enter tridata model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter tridata value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "Others01": {
+            "label": "Others 01",
+            "Modal": {
+                "error_blank": "Please enter others 01 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 01 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "Others02": {
+            "label": "Others 02",
+            "Modal": {
+                "error_blank": "Please enter others 02 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter sonar value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+        "Others03": {
+            "label": "Others 03",
+            "Modal": {
+                "error_blank": "Please enter others 03 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter other 03 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            }
+        },
+
+
+        "Others04": {
+            "label": "Others 04",
+            "Modal": {
+                "error_blank": "Please enter others 04 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 04 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Total": "Total"
+    },
+
+    "Personal": {
+
+        "Header": "Personal Effects",
+
+        "Appliance": "Appliance",
+        "Model": "Model/Description",
+        "Value": "Value(€)",
+
+        "Tv": {
+            "label": "TV",
+            "Modal": {
+                "error_blank": "Please enter TV model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter TV 04 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "MusicEquipment": {
+            "label": "Music Equipment",
+            "Modal": {
+                "error_blank": "Please enter music equipment model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter music equipment value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others01": {
+            "label": "Others 01",
+            "Modal": {
+                "error_blank": "Please enter others 01 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 01 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others02": {
+            "label": "Others 02",
+            "Modal": {
+                "error_blank": "Please enter others 02 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 02 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others03": {
+            "label": "Others 03",
+            "Modal": {
+                "error_blank": "Please enter others 03 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 03 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others04": {
+            "label": "Others 04",
+            "Modal": {
+                "error_blank": "Please enter others 04 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 04 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others05": {
+            "label": "Others 05",
+            "Modal": {
+                "error_blank": "Please enter others 05 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 05 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others06": {
+            "label": "Others 06",
+            "Modal": {
+                "error_blank": "Please enter others 06 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 06 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others07": {
+            "label": "Others 07",
+            "Modal": {
+                "error_blank": "Please enter others 07 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 07 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others08": {
+            "label": "Others 08",
+            "Modal": {
+                "error_blank": "Please enter others 08 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 08 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others09": {
+            "label": "Others 09",
+            "Modal": {
+                "error_blank": "Please enter others 09 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 09 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others10": {
+            "label": "Others 10",
+            "Modal": {
+                "error_blank": "Please enter others 10 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 10 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+        
+        "Others11": {
+            "label": "Others 11",
+            "Modal": {
+                "error_blank": "Please enter others 11 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 11 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others12": {
+            "label": "Others 12",
+            "Modal": {
+                "error_blank": "Please enter others 12 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 12 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Others13": {
+            "label": "Others 13",
+            "Modal": {
+                "error_blank": "Please enter others 13 model/descrption",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank": "Please enter others 13 value(€)",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+           }
+        },
+
+        "Total": "Total"
+    },
+
+    "Sails": {
+
+        "Header": "Sails, Canopy & Covers",
+
+        "Type": "Type",
+        "Value": "Value",
+        "Description": "Description",
+        
+        "Bimini": {
+            "label": "Bimini",
+            "Value": {
+                "error_blank":"Please enter bimini value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "MainSailCovers": {
+            "label": "Main Sail Covers",
+            "Value": {
+                "error_blank":"Please enter main sail covers value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "Others01": {
+            "label": "Others 01",
+            "Description": {
+                    "error_blank":"Please enter others 01 value",
+                    "error_minLength": "",
+                    "error_maxLength": "",
+                    "error_pattern": "" 
+            },
+              "Value": {
+                "error_blank":"Please enter others 01 value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "CanvasAnchoring": {
+            "label": "Canvas Anchoring",
+            "Value": {
+                "error_blank":"Please enter canvas anchoring value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "GenovaSailCovers": {
+            "label": "Genova Sail Covers",
+            "Value": {
+                "error_blank":"Please genova sail covers value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "Others02": {
+            "label": "Others 02",
+            "Description": {
+                "error_blank": "Please enter other 02 description",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank":"Please enter other 02 value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "Awinings": {
+            "label": "Awinings",
+            "Value": {
+                "error_blank":"Please enter Awinings value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "Anticlonehood": {
+            "label": "Anti-clone hood",
+            "Value": {
+                "error_blank":"Please enter anti-clone hood value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "Others03": {
+            "label": "Others 03",
+            "Description": {
+                "error_blank": "",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": ""
+            },
+            "Value": {
+                "error_blank":"Please enter others 03 value",
+                "error_minLength": "",
+                "error_maxLength": "",
+                "error_pattern": "" 
+            }
+        },
+
+        "Total": "Total Sails, Canopy & Covers" 
+    },
+
+    "Sum": {
+
+        "Header": "Sum Insured",
+
+        "HullInboundMachinery": {
+            "label": "Hull + Inbound Machinery",
+            "error_blank": "Please enter hull + inbound machinery",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+
+        "Tender": {
+            "label": "Tender/Dinghy",
+            "error_blank": "Please enter tender",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+
+        "LifeRaft": {
+            "label": "LifeRaft",
+            "error_blank": "Please enter life raft",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+
+        "Outboard1": {
+            "Label": "Outboard1",
+            "error_blank": "Please enter outboard 1",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+
+        "Outboard2": {
+            "label": "Outboard2",
+            "error_blank": "Please enter outboard 2",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+
+        "RoadTrailer": {
+            "label": "Road Trailer",
+            "error_blank": "Please enter road trailer",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+
+        "PersonalEffects": {
+            "label": "Personal Effects",
+            "error_blank": "Please enter personal effects",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+
+        "NavigationalEquipment": {
+            "label": "Navigational Equipment",
+            "error_blank": "Please enter navigational equipment",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattrn": ""
+        },
+
+        "PortableGenerator": {
+            "label": "Portable Generator",
+            "error_blank": "Please enter portable generator",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattren": ""
+        },
+
+        "CustomCoverage": {
+            "label": "Custom Coverage",
+            "error_blank": "Please enter custom coverage",
+            "error_minLength": "",
+            "error_maxLength": "",
+            "error_pattern": ""
+        },
+
+        "Total": "Total Sum Insured"
+    }
+}

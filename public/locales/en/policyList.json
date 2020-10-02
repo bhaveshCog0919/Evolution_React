@@ -1,0 +1,139 @@
+{ 
+    "PolicyList" : "Policy List",
+    "SearchPolicy" : "Search Policy",
+    "Client" : {
+        "label" : "Client",
+        "placeholder" : "Client",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""        
+    },
+    "Phone" :{
+        "label" : "Phone",
+        "placeholder" : "Phone",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""        
+    },
+    "Email" :{
+        "label" : "Email",
+        "placeholder" : "Email",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""        
+    },
+    "PolicyNumber" :{
+        "label" : "Policy Number",
+        "placeholder" : "Policy Number",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""        
+    },
+    "Binder" :{
+        "label" : "Binder",
+        "placeholder" : "Binder",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""        
+    },
+    "SubBinder" :{
+        "label" : "Sub Binder",
+        "placeholder" : "Sub Binder",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""        
+    },
+    "PolicyStartDateFrom" :{
+        "label" : "Policy Start Date From",
+        "tolabel" : "to",
+        "fromplaceholder" : "Policy Start From Date",
+        "toplaceholder" : "Policy Start To Date",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""  
+    },
+    "PolicyRenewalDateFrom" :{
+        "label" : "Policy Renewal Date From",
+        "tolabel" : "to",
+        "fromplaceholder" : "Policy Renewel From Date",
+        "toplaceholder" : "Policy Renewel To Date",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""  
+    },
+    "Country" :{
+        "label": "Country",
+        "defaultValue": "Select Country",
+        "error": "Please select Country"
+    },
+    "Language" :{
+        "label": "Language",
+        "defaultValue": "Select Language",
+        "error": "Please select Language"
+    },
+    "Currency" :{
+        "label": "Currency",
+        "defaultValue": "Select Currency",
+        "error": "Please select Currency"
+    },
+    "PolicyStatus" :{
+        "label": "Policy Status",
+        "defaultValue": "Select Policy Status",
+        "error": "Please select Policy Status"
+    },
+    "PolicyType" :{
+        "label": "Policy Type",
+        "defaultValue": "Select Policy Type",
+        "error": "Please select Policy Type"
+    },
+    "VesselClass" :{
+        "label": "Vessel Class",
+        "defaultValue": "Select Vessel Class",
+        "error": "Please select Vessel Class"
+    },
+    "VesselType" :{
+        "label": "Vessel Type",
+        "defaultValue": "Select Vessel Type",
+        "error": "Please select Vessel Type"
+    },
+    "Agent/ServiceCenter" :{
+        "label" : "Agent/Service Center",
+        "placeholder" : "Agent/Service Center",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""  
+    },
+    "SumInsuredFrom" :{
+        "label" : "Sum Insured From",
+        "placeholder" : "Sum Insured From",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""  
+    },
+    "SumInsuredTo" :{
+        "label" : "to",
+        "placeholder" : "Sum Insured To",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""  
+    },
+    "ClientPhoneEmail" :{
+        "label" : "Client/Phone/Email",
+        "placeholder" : "Enter Client/Phone/Email",
+        "error_blank" : "",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""  
+    },
+}

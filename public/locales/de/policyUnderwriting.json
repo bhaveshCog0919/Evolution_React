@@ -1,0 +1,125 @@
+{
+    "PolicyDates#": "Policy & Dates",
+    "PolicyOptionsAdjustments#": "Policy Options & Adjustments",
+    "LimitsAdditionalCoverCommissionFeesandLevy#": "Limits / Additional Cover & Commission & Fees and Levy's",
+    "Policy": "Policy",
+    "UnderWritingPolicyNumber": "Policy Number",
+    "Binder": {
+        "label": "Binder",
+        "error": "Please select Binder"
+    },
+    "SubBinder": {
+        "label": "Sub Binder",
+        "error": "Please enter sub binder"
+    },
+    "InsuranceComapny": {
+        "label": "Insurance Comapny",
+        "defaultValue": "Select Insurance Comapny",
+        "error": "Please enter Insurance Comapny"
+    },
+    "Department": {
+        "label": "Department",
+        "defaultValue": "Select Department",
+        "error": "Please select department"
+    },
+    "Source": {
+        "label": "Source",
+        "defaultValue": "Select Source",
+        "error": "Please select source"
+    },
+    "Dates": "Dates",
+    "InceptionDate": {
+        "label": "Inception Date",
+        "error": "Please enter Inception Date"
+    },
+    "RenewDate": "Renewal Date",
+    "LastBindDate": "Last Bind Date",
+    "YearBuilt": "Year Built",
+    "LastSurveyDate": "Last Survey Date",
+    "SurveyDueDate": "Survey Due Date",
+    "PolicyOptions": "Policy Options",
+    "AwaitingDocuments": {
+        "label": "Awaiting Documents",
+        "defaultValue": "Select Awaiting Documents",
+        "error": "Please select Awaiting Documents"
+    },
+    "PremiumCredits": {
+        "label": "Premium Credits",
+        "defaultValue": "Select Premium Credits",
+        "error": "Please select premium credits"
+    },
+    "Adjustments": "Adjustments",
+    "UnderWriter": {
+        "label": "UnderWriter Amount",
+        "error": "Please enter UnderWriter Amount"
+    },
+    "Note": {
+        "label": "Note",
+        "error": "Please enter note"
+    },
+    "gross": {
+        "label": "Gross"
+    },
+    "agency": {
+        "label": "Agency"
+    },
+    "balance": {
+        "label": "Balance"
+    },
+    "LimitsAdditionalCover": "Limits / Additional Cover",
+    "ThirdPartyLiability": {
+        "label": "Third Party Liability",
+        "defaultValue": "Select Third Party Liability",
+        "error": "Please select third party liability"
+    },
+    "WaterSkiingLiability": {
+        "label": "Water Skiing Liability",
+        "error": "lease enter Water Skiing Liability"
+    },
+    "WaterToysLiabiility" : {
+        "label": "Water Toys Liabiility",
+        "error": "Please enter Water Toys Liability"
+    },
+    "SailRacingCoverage":{
+        "label": "Sail Racing Coverage Required?",
+        "error": "Please enter Sail Racing Coverage"
+    },
+    "RacingEventType": {
+        "label": "Racing Event Type",
+        "defaultValue": "Select Racing Event Type",
+        "error": "Please select Racing Event Type"
+    },
+    "SingleHandedSailing": {
+        "label": "Single Handed Sailing?",
+        "SingleHandedSailingYes": "Yes",
+        "SingleHandedSailingNo": "No",
+        "error": "Please select Single Handed Sailing"
+    },
+    "CrewLiability": {
+        "label": "Crew Liability?",
+        "defaultValue": "Select Crew Liability",
+        "error": "Please select Crew Liability"
+    },
+    "Excess": {
+        "label": "Excess Amount",
+        "error": "Please enter Excess"
+    },
+    "Commission": "Commission",
+    "Gross": "Gross",
+    "GrossAmount": "Amount",
+    "Agency": "Agency",
+    "AgencyAmount": "Amount",
+    "Balance": "Balance",
+    "BalanceAmount": "Amount",
+    "FeesandLevy": "Fees and Levy's",
+    "GovtLevy": {
+        "label": "Govt Levy",
+        "defaultValue": "Select Government Lavys",
+        "error": "lease enter Government Lavys",
+        "governmentLavysDescErr": "Please enter Government Lavys Description",
+        "Amount": "Amount"
+    },
+    "AdminFee": "Admin Fee",
+    "RatingExcess#": "Rating/Excess"
+
+}

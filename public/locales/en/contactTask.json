@@ -1,0 +1,119 @@
+{
+  "taskTitle": "Tasks",
+  "addTask": "Add Task",
+  "editTask": "Edit Task",
+  "toggleColumn": "Show / Hide Column",
+  "Table_header": {
+    "Id": "Id",
+    "Reporter": "Reporter",
+    "Assignee": "Assignee",
+    "TaskFollower": "Task-Follower",
+    "Title": "Title",
+    "Priority": "Priority",
+    "TasksType": "Tasks Type",
+    "DueDate": "Due Date",
+    "Created": "Created",
+    "Updated": "Updated",
+    "Status": "Status",
+    "Action": "Action"
+  },
+
+  "Title": {
+    "label": "Title",
+    "placeholder": "Title",
+    "error_blank": "Please enter Title",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Assignee": {
+    "label": "Assignee",
+    "placeholder": "Select Assignee",
+    "error_blank": "Please enter Assignee",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Type": {
+    "label": "Type",
+    "placeholder": "Select Type",
+    "error_blank": "Please enter Type",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Task_Followers": {
+    "label": "Task Followers",
+    "placeholder": "Select Type",
+    "error_blank": "Please select Task Followers",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Priority": {
+    "label": "Priority",
+    "placeholder": "Select Priority",
+    "error_blank": "Please select Priority",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Status": {
+    "label": "Status",
+    "placeholder": "Select Status",
+    "error_blank": "Please select Status",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Due_Date": {
+    "label": "Status",
+    "placeholder": "Select Status",
+    "error_blank": "Please select Status",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Regarding": {
+    "label": "Regarding",
+    "placeholder": "Select Regarding",
+    "error_blank": "Please select Regardings",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Regarding_Value": {
+    "label": "",
+    "placeholder": "Regardings",
+    "error_blank": "Please enter regardings",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Details": {
+    "label": "Details",
+    "placeholder": "Details",
+    "error_blank": "Please enter Details",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+
+  "Notes_addon": {
+    "label": "Notes Addon",
+    "placeholder": "",
+    "error_blank": "",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  }
+}

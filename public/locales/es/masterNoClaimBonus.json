@@ -1,0 +1,50 @@
+{ 
+    "Header": "Bono sin reclamo",
+    
+    "NoofYears": {
+        "label": "No. de años",
+        "placeholder": "No. de años",
+        "error_blank": "Por favor ingrese el no válido de años",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "DiscountRate": {
+        "label": "Tasa de descuento (%)",
+        "placeholder": "Tasa de descuento (%)",
+        "error_blank": "Por favor, introduzca una tasa de descuento válida (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "AddNoClaimBonus": "Añadir bono sin reclamo",
+    "NoClaimBonusList": "No Claim Bonus List",
+    "NoRecordsFound": "No records found",
+
+    "DataTableHeaders": {
+        "NoofYears": "No. de años",
+        "DiscountRate": "Tasa de descuento",
+        "Action": "Acción"
+    },
+
+    "ModalHeading": {
+        "Add": "Añadir bono sin reclamo",
+        "Update": "Actualización sin bono de reclamo",
+    },
+
+    "Toast":{
+        "Saved":"Bono sin reclamo guardado con éxito",
+        "Updated": "Bono sin reclamo actualizado con éxito",
+        "Delete": "No Claim Bonus deleted Successfully",
+        "error": "No. of Year already exist"
+    },
+
+    "Delete": {
+        "label": "Delete No claim Bonus?",
+        "message": "Are you sure, You want to delete no claim bonus ?",
+        "No": "No",
+        "Yes": "Yes"
+    }
+}

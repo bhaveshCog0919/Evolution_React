@@ -1,0 +1,50 @@
+{ 
+    "Header": "Geen claimbonus",
+    
+    "NoofYears": {
+        "label": "Aantal jaren",
+        "placeholder": "Aantal jaren",
+        "error_blank": "Voer alstublieft geldig nr. van jaren",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "DiscountRate": {
+        "label": "Kortingspercentage (%)",
+        "placeholder": "Kortingspercentage (%)",
+        "error_blank": "Voer een geldig kortingspercentage in (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "AddNoClaimBonus": "Voeg geen claimbonus toe",
+    "NoClaimBonusList": "No Claim Bonus List",
+    "NoRecordsFound": "No records found",
+
+    "DataTableHeaders": {
+        "NoofYears": "Aantal jaren",
+        "DiscountRate": "Kortingspercentage",
+        "Action": "Actie"
+    },
+
+    "ModalHeading": {
+        "Add": "Voeg geen claimbonus toe",
+        "Update": "Update geen claimbonus"
+    },
+
+    "Toast":{
+        "Saved":"Geen claimbonus succesvol opgeslagen",
+        "Updated": "Geen claimbon succesvol bijgewerkt",
+        "Delete": "No Claim Bonus deleted Successfully",
+        "error": "No. of Year already exist"
+    },
+
+    "Delete": {
+        "label": "Delete No claim Bonus?",
+        "message": "Are you sure, You want to delete no claim bonus ?",
+        "No": "No",
+        "Yes": "Yes"
+    }  
+}

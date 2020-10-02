@@ -1,0 +1,14 @@
+{
+    "AlreadyPurchasedCoverage":{
+        "label" : "Add On Coverage Already Purchased",
+        "PolicyOption" : "Policy Option",
+        "Premium" : "Premium",
+        "Action" : "Action"
+    },
+    "AvailableToPurchaseCoverage":{
+        "label" : "Add On Coverage Available to Purchase",
+        "PolicyOption" : "Policy Option",
+        "Premium" : "Premium",
+        "AddToMyPolicy" : "Add to my Policy"
+    }
+}

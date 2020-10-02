@@ -1,0 +1,93 @@
+{
+  "generalYes": "Yes",
+  "generalNo": "No",
+
+  "generalQuestions#": "General Questions",
+  "previousBoatingExperience" : {
+    "label": "Previous Boating Experience",
+    "defaultValue": "Select previous boating experience year",
+    "years": "Years",
+    "error": "Please select previous boating experience year"
+  },
+  "generalProofProvided": "Proof Provided",
+  "boatingQualifications": {
+    "label": "Boating Qualifications",
+    "defaultValue": "Select boating qualifications",
+    "error": "Please select boating qualifications"
+  },
+  "lossesinlast5years": {
+    "lossesError": "Please select losses in last 5 years",
+    "label": "Any losses in last 5 years",
+    "describe": "Describe",
+    "error": "Please enter losses describe",
+    "describePlaceholder": "Any losses in last 5 years describe"
+  },
+  "convictedorCharged": {
+    "convictedError": "Please select convicted or Charged",
+    "label": "Convicted or Charged",
+    "describe": "Describe",
+    "error": "Please enter convicted or charged describe",
+    "describePlaceholder": "Convicted or charged describe"
+  },
+  "insuranceCanceledorRefused": {
+    "insuranceCanceledorRefusedError":"Please select insurance cancelled or refused",
+    "label": "Insurance cancelled or refused",
+    "describe": "Describe",
+    "error": "Please enter insurance cancelled or refused describe",
+    "describePlaceholder": "Insurance cancelled or refused describe"
+  },
+  "vesselDamaged": {
+    "vesselDamagedError": "Please select damaged",
+    "label": "Has the vessel ever been damaged",
+    "describe": "Describe",
+    "error": "Please enter damaged describe",
+    "describePlaceholder": "Has the vessel ever been damaged describe"
+  },
+
+  "insuranceHistory#": "Insurance History",
+  "previousInsurer": {
+    "label": "Previous Insurer",
+    "defaultValue": "Select Previous Insurer",
+    "error": "Please select previous insurer"
+  },
+  "insuranceHistoryProofProvided": "Proof Provided",
+  "policyNo": {
+    "label": "Policy No.",
+    "error": "Please enter policy no."
+  },
+  "currentNCB": {
+    "label": "Current NCB",
+    "noofYears": "No of Years",
+    "noofYearsDefaultValue": "Select No of Years",
+    "noofYearsError": "Please select no of years",
+    "NCBAmount": "NCB Amount",
+    "NCBAmountError": "Please enter current NCB amount",
+    "NCBAmountPlaceholder": "Current NCB amount"
+  },
+  "previousNCB": {
+    "label": "Previous NCB",
+    "noofYears": "No of Years",
+    "noofYearsDefaultValue": "Select No of Years",
+    "noofYearsError": "Please select no of years",
+    "NCBAmount": "NCB Amount",
+    "NCBAmountError": "Please enter previous NCB amount",
+    "NCBAmountPlaceholder": "Previous NCB amount"
+  },
+
+  "schemes#": "Schemes",
+  "ISA": {
+    "label": "Are you a member of ISA?",
+    "affiliatedClub": "Name of Affiliated Club",
+    "affiliatedClubError": "Please enter Name of affiliated club",
+    "membershipNo": "Membership No",
+    "membershipNoError": "Please enter membership no"
+  },
+  "IWAI": {
+    "label": "Are you a member of IWAI?",
+    "affiliatedBranch": "Name of Affiliated Branch",
+    "affiliatedBranchError": "Please enter Name of affiliated branch",
+    "membershipNo": "Membership No",
+    "membershipNoError": "Please enter membership no"
+  }
+  
+}

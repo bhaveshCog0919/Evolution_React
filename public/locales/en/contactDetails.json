@@ -1,0 +1,374 @@
+{
+  "Contact#": "Contact#",
+  "EditContactCode": "Edit Contact Code",
+  "ContactCode": "Contact Code",
+  "ContactCodeError": "Please enter contact code",
+  "ChangePicture": "Change Picture",
+  "ContactType": {
+    "label": "Contact Type",
+    "defaultValue": "Select Contact Type",
+    "error": "Please select Contact Type"
+  },
+  "Individual": "Individual",
+  "Company": "Company",
+  "isCompanyError": "Please select Company",
+  "CompanyName": {
+    "label": "Company Name",
+    "error_blank": "Please enter Company Name",
+    "error_minLength": "",
+    "error_maxLength": "Company Name can not be greater than 100 characters",
+    "error_pattern": "Company Name is not valid"
+  },
+  "Name": "Name",
+  "Title": {
+    "label": "Title",
+    "defaultValue": "Select",
+    "error": "Please select Title"
+  },
+  "FirstName": {
+    "label": "Forename",
+    "error_blank": "Please enter Forename",
+    "error_minLength": "Minimum 3 characters required",
+    "error_maxLength": "Forename can not be greater than 25 characters",
+    "error_pattern": "Please enter valid Forename"
+  },
+  "LastName": {
+    "label": "Surname",
+    "error_blank": "Please enter Surname",
+    "error_minLength": "Minimum 3 characters required",
+    "error_maxLength": "Surname can not be greater than 25 characters",
+    "error_pattern": "Please enter valid Surname"
+  },
+  "Salutation": {
+    "label": "Salutation",
+    "error_blank": "Please enter valid Salutation",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Please enter valid Salutation"
+  },
+  "PassportNumber": {
+    "label": "Passport Number",
+    "error_blank": "Please enter Passport Number",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Please enter valid Passport Number"
+  },
+  "PassportCountry": {
+    "label": "Passport Country",
+    "error_blank": "Please enter Passport Country",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "BusinessType": {
+    "label": "Business Type",
+    "error_blank": "Please enter Business Type",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "CompanyIdentifier": {
+    "label": "Company Identifier",
+    "error_blank": "Please enter Company Identifier",
+    "error_minLength": "",
+    "error_maxLength": "Company Identifier is not greater than 100 characters",
+    "error_pattern": ""
+  },
+  "Gender": "Gender",
+  "GenderError": "Please select Gender",
+  "Male": "Male",
+  "Female": "Female",
+  "DOB": {
+    "label": "DOB",
+    "error_blank": "Please enter Birth Date",
+    "erro_minLength": "Please enter valid Birth Date",
+    "error_maxLength": "Please enter valid Birth Date",
+    "error_pattern": ""
+  },
+  "Address": "Address",
+  "Country": {
+    "label": "Country",
+    "error": "Please select Country"
+  },
+  "Line1": {
+    "label": "Line1",
+    "placeholder": "Address Line1",
+    "error_blank": "Please enter address line1",
+    "error_minLength": "",
+    "error_maxLength": "Maximum 150 characters are allowed",
+    "error_pattern": ""
+  },
+  "Line2": {
+    "label": "Line2",
+    "placeholder": "Address Line2",
+    "error_blank": "Please enter address line2",
+    "error_minLength": "",
+    "error_maxLength": "Maximum 150 characters are allowed",
+    "error_pattern": ""
+  },
+  "Line3": {
+    "label": "Line3",
+    "placeholder": "Address Line3",
+    "error_blank": "Please enter address line3",
+    "error_minLength": "",
+    "error_maxLength": "Maximum 150 characters are allowed",
+    "error_pattern": ""
+  },
+  "County": {
+    "label": "County / Province",
+    "placeholder": "County / Province",
+    "error": "Please enter County / Province"
+  },
+  "Town": {
+    "label": "Town",
+    "placeholder": "Town",
+    "error": "Please enter Town"
+  },
+  "PostalCode": {
+    "label": "Postal Code",
+    "error_blank": "Please enter valid postal code",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "PhoneHeader": "Phone",
+  "PhonesError": "Please enter at least one phone number",
+  "PhoneType": {
+    "label": "Type",
+    "defaultValue": "Select",
+    "error": "Please select phone type"
+  },
+  "CommissionPayable": {
+    "label": "Commission Payable",
+    "defaultValue": "New Business",
+    "error": "Please select commission payable"
+  },
+  "CountryCode": {
+    "label": "Country Code",
+    "defaultValue": "Select",
+    "error": "Please select country code"
+  },
+  "AreaCode": {
+    "label": "Area Code",
+    "placeholder": "Area Code",
+    "error_blank": "Please enter valid area code",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "Phone": {
+    "label": "Phone",
+    "placeholder": "Phone Number",
+    "error_blank": "Please enter Phone Number",
+    "error_minLength": "Minimum 6 digits are required",
+    "error_maxLength": "Maximum 15 digits are allowed",
+    "error_pattern": "Please enter valid Phone Number"
+  },
+  "EnterLandLine": "Enter Area Code",
+  "HideLandLine": "Hide Area Code",
+  "EnterExt": "Enter Ext",
+  "HideExt": "Hide Ext",
+  "PhonePrimary": "Primary",
+  "PhoneMakePrimary": "Make Primary",
+  "PhoneAlreadyExist": "Phone Number already exist in list",
+  "EmailAlreadyExist": "Email ID already exist in list",
+  "EmailHeader": "Email",
+  "EmailsError": "Please enter at least one email",
+  "EmailType": {
+    "label": "Type",
+    "defaultValue": "Select",
+    "error": "Please select email type"
+  },
+  "Email": {
+    "label": "Email",
+    "placeholder": "Email",
+    "error_blank": "Please enter email",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Please enter valid email"
+  },
+  "EmailPrimary": "Primary",
+  "EmailMakePrimary": "Make Primary",
+  "ContactPreference": "Contact Preference",
+  "OktoContact": "Ok to Contact",
+  "DonotContact": "Do not Contact",
+  "ContactMode": "Contact Mode",
+  "DocumentDelivery": {
+    "label": "Document Delivery",
+    "Email": "Email",
+    "Post": "Post",
+    "Both": "Both",
+    "Error": "Please select document delivery option"
+  },
+  "Notes": {
+    "label": "Notes",
+    "placeholder": "Notes",
+    "error_blank": "",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "CentralBankCode": {
+    "label": "Central Bank Code",
+    "placeholder": "Central Bank Code",
+    "error_blank": "Please enter Central Bank Code",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "commissionRate": {
+    "label": "Commission Rate",
+    "placeholder": "Commission Rate",
+    "error_blank": "Please provide Commission Rate",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Please provide valid Commission Rate"
+  },
+  "Binder": {
+    "label": "Binder",
+    "placeholder": "",
+    "defaultValue": "",
+    "error": ""
+  },
+  "AllowedLogin": {
+    "label": "Allowed to Login ?",
+    "No": "No",
+    "Yes": "Yes"
+  },
+  "NewUser": {
+    "label": "Create New Login ?",
+    "No": "No",
+    "Yes": "Yes"
+  },
+  "UserName": {
+    "label": "User Name",
+    "placeholder": "User Name",
+    "error_blank": "Please enter user name",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "Password": {
+    "label": "Password",
+    "placeholder": "Password",
+    "error_blank": "Please enter valid password",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "password_show": "Show",
+    "password_hide": "Hide"
+  },
+  "PasswordRules": {
+    "label": "Password Rules",
+    "uppercase": "One capital (upperCaseLetters) required",
+    "lowercase": "One small (lowerCaseLetters) required",
+    "minlength": "Minimum 8 characters required",
+    "maxlength": "Maximum 15 characters allowed",
+    "specialcharacter": "One special character required",
+    "number": "One number required"
+  },
+  "ConfirmPassword": {
+    "label": "Confirm Password",
+    "placeholder": "Confirm Password",
+    "error_blank": "Password and Confirm password doesn't match",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "password_show": "Show",
+    "password_hide": "Hide"
+  },
+  "Question1": {
+    "label": "Security Question 1",
+    "defaultValue": "Select Question 1",
+    "error": "Please select question 1"
+  },
+  "Answer1": {
+    "label": "Answer",
+    "placeholder": "Answer",
+    "error": "Please give answer for question 1",
+    "error_blank": "Please give your answer",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "Show",
+    "hide": "Hide"
+  },
+  "Question2": {
+    "label": "Security Question 2",
+    "defaultValue": "Select Question 2",
+    "error": "Please select question 2"
+  },
+  "Answer2": {
+    "label": "Answer",
+    "placeholder": "Answer",
+    "error": "Please give answer for question 2",
+    "error_blank": "Please give your answer",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "Show",
+    "hide": "Hide"
+  },
+  "Question3": {
+    "label": "Security Question 3",
+    "defaultValue": "Select Question 3",
+    "error": "Please select question 3"
+  },
+  "Answer3": {
+    "label": "Answer",
+    "placeholder": "Answer",
+    "error": "Please give answer for question 3",
+    "error_blank": "Please give your answer",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "Show",
+    "hide": "Hide"
+  },
+  "DeletePhone": {
+    "label": "Delete Phone?",
+    "message": "Are you sure you want to delete phone number:",
+    "No": "No",
+    "Yes": "Yes"
+  },
+  "QuestaionAlreadySelected": "This question is already selected",
+  "UniqueQuestion": "All questions must be unique",
+  "DeleteEmail": {
+    "label": "Delete Email?",
+    "message": "Are you sure you want to delete email:",
+    "No": "No",
+    "Yes": "Yes"
+  },
+  "SetupPolicy":{
+    "header": "Set up a new policy ?",
+    "message": "Do you want set up a new policy ?",
+    "No": "No",
+    "Yes": "Yes"
+  },
+  "ViewPage": {
+    "IndividualDetails": "Individual Details",
+    "CompanyDetails": "Company Details",
+    "ContactDetails": "Contact Details",
+    "PassportDetails": "Passport Details",
+    "NoteDetails": "Notes",
+    "CollapseAll": "Collapse All",
+    "ExpandAll": "Expand All",
+    "ModalHeader": "Edit Contact Details",
+    "OptionDefault": "Select",
+    "OptionCorrect": "Correct",
+    "OptionIncorrect": "Incorrect",
+    "OptionError": "Please select one option",
+    "CommentLabel": "Comment",
+    "CommentErrorBlank": "Please enter note",
+    "CommentErrorMinLength": "",
+    "CommentErrorMaxLength": "",
+    "CommentErrorPattern": "",
+    "VerificationFailed": "Verification Failed",
+    "VerificationDone": "Verification Done",
+    "SelectAnswerError": "Please select answer",
+    "AddCommentError": "Please add comment to verify user"
+  },
+  "ListPage": {
+    
+  }
+}

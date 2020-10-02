@@ -1,0 +1,52 @@
+{
+    "Header": "Vessel Type",
+
+    "ClassId": {
+        "label": "ClassID"
+    },
+
+    "ClassName": {
+        "label": "Class Name",
+        "defaultValue": "Select class name",
+        "error": "Please select class name"
+    },
+
+    "VesselType": {
+        "label": "Vessel Type",
+        "placeholder": "Vessel Type",
+        "error_blank": "Please enter vessel type",
+        "error_minLength": "",
+        "error_maxLength": "Please enter valid vessel type",
+        "error_pattern":"Please enter valid vessel type"
+    },
+
+    "AddVesselType": "Add Vessel Type",
+    "VesselTypeList": "Vessel Type List",
+    "VesselTypes": "Vessel Types",
+
+    "DataTableHeaders": {
+        "ClassID": "Class ID",
+        "ClassName": "Class Name",
+        "Type": "Type",
+        "Action": "Action"
+    },
+
+    "ModalHeading": {
+        "Add": "Add Vessel Type",
+        "Update": "Update Vessel Type"
+    },
+
+    "Toast":{
+        "Saved":"Vessel Type saved successfully",
+        "Updated": "Vessel Type updated successfully",
+        "Delete": "Vessel Type deleted Successfully ",
+        "error": "Vessel Type already exist"
+    },
+
+    "Delete": {
+        "label": "Delete Vessel Type ?",
+        "message": "Are you sure, You want to delete Vessel Type ?",
+        "No": "No",
+        "Yes": "Yes"
+    }
+}

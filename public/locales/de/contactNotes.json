@@ -1,0 +1,15 @@
+{
+    "AddNotes": "Add Notes",
+    "EditNotes": "Edit Notes",
+    "ImportantNotes": "Important Notes",
+    "NotesType": {
+        "label": "Notes Type",
+        "placeholder": "Select Notes Type",
+        "error_blank": "Please select note type"
+    },
+    "Notes": {
+        "label": "Notes",
+        "placeholder": "Enter Note",
+        "error_blank": "Please enter Note"
+    }
+}

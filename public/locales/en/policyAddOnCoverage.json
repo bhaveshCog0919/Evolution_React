@@ -1,0 +1,30 @@
+{
+    "AlreadyPurchased": {
+        "title":"Add On Coverage Already Purchased",
+        "PolicyOption": "Policy Option",
+        "Premium": "Premium",
+        "AdminFees": "Admin Fees",
+        "Total": "Total",
+        "Action": "Action"
+    },
+    "AvailableToPurchase": {
+        "title":"Add On Coverage Available to Purchase",
+        "PolicyOption": "Policy Option",
+        "Premium": "Premium",
+        "AdminFees": "Admin Fees",
+        "Total": "Total",
+        "Action": "Add to my Policy"
+    },
+    "ConformationSaveModal":{
+        "Header": "Add Coverage",
+        "Message": "Are you sure you want to Add Coverage!!",
+        "Approval": "Yes",
+        "Reject": "Cancel"
+    },
+    "ConformationDeleteModal":{
+        "Header": "Delete Coverage",
+        "Message": "Are you sure you want to Delete Coverage!!",
+        "Approval": "Yes",
+        "Reject": "Cancel"
+    }
+}

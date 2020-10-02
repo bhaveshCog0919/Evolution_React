@@ -1,0 +1,97 @@
+{
+    "Header": "Heffing",
+
+    "Country": {
+        "label": "land",
+        "defaultValue": "Selecteer land",
+        "error": "Selecteer land"
+    },
+
+    "Type": {
+        "label": "Type",
+        "defaultValue": "Selecteer type",
+        "error": "Selecteer type"
+    },
+
+    "Rate1": {
+        "label": "Tarief 1 (%)",
+        "placeholder": "Tarief 1 (%)",
+        "error_blank": "Voer een geldig tarief 1 in (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "Rate2": {
+        "label": "Tarief 2 (%)",
+        "placeholder": "Tarief 2 (%)",
+        "error_blank": "Voer een geldig tarief 2 in (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "RateBasis1": {
+        "label": "Tariefbasis 1",
+        "defaultValue": "Selecteer tariefbasis 1",
+        "error": "Selecteer tariefbasis 1"
+    },
+
+    "RateBasis2": {
+        "label": "Tariefbasis 2",
+        "defaultValue": "Selecteer tariefbasis 2",
+        "error": "Selecteer tariefbasis 2"
+    },
+
+    "AmountInEUR": {
+        "label": "Bedrag in EUR",
+        "placeholder": "Bedrag in EUR",
+        "error_blank": "Voer een geldig bedrag in eur in",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "AmountInGBP": {
+        "label": "Bedrag in GBP",
+        "placeholder": "Bedrag in GBP",
+        "error_blank": "Voer een geldig bedrag in gbp in",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "DataTableHeaders": {
+        "Country": "land",
+        "Type": "Type",
+        "Rate1": "Tarief 1",
+        "RateBasis1": "Tariefbasis 1",
+        "Rate2": "Tarief 2",
+        "RateBasis2": "Tariefbasis 2",
+        "AmountInEUR": "Bedrag in EUR",
+        "AmountInGBP": "Bedrag in GBP",
+        "Action": "Actie"
+    },
+
+    "ModalHeading": {
+        "Add": "Levy toevoegen",
+        "Update": "Heffing bijwerken"
+    },
+
+    "AddLevy": "Levy toevoegen",
+    "LevyList": "Heffingslijst",
+
+    "Toast":{
+        "Saved":"Levy succesvol opgeslagen",
+        "Updated": "Heffing succesvol bijgewerkt",
+        "Delete": "Levy deleted Successfully ",
+        "error": "Country already exist"
+    },
+
+    "Delete": {
+        "label": "Delete Levy ?",
+        "message": "Are you sure, You want to delete levy ?",
+        "No": "No",
+        "Yes": "Yes"
+    }
+}

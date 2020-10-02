@@ -1,0 +1,79 @@
+{
+  "loginData": {
+    "title": "Inloggen",
+    "description": "Aanmelden bij uw accountt",
+    "username":{
+      "placeholder":"Gebruikersnaam",
+      "error":"Voer gebruikersnaam in"
+    },
+    "password":{
+      "placeholder":"Wachtwoord",
+      "error":"Voer wachtwoord in alstublieft"
+    },
+    "button":"Inloggen",
+    "signup":"Inschrijven",
+    "registerdescription":"Pagina registreren",
+    "forgotpassword":"Wachtwoord vergeten?",
+    "registerbutton":"Registreer nu!"
+  },
+
+  "labels": {
+    "globalSearchLabel": "Wereldwijd zoeken",
+    "shoeHideColumnLabel": "Kolom tonen / verbergen",
+    "ActionLabel": "Actie"
+  },
+
+  "buttons": {
+    "Save": "Opslaan",
+    "Add": "Toevoegen",
+    "Edit": "Bewerk",
+    "Delete": "Delete",
+    "Close": "Dichtbij",
+    "Back": "Terug",
+    "Update": "Bijwerken",
+    "Cancel": "Cancel",
+    "BackToPolicy": "Back to policy list",
+    "View": "Visie",
+    "Generate": "Generieren"
+  },
+
+  "mandatoryFieldMsg": "velden aangegeven met een * zijn verplicht",
+
+  "ChangePassword": {
+    "ModalHeader": "Verander wachtwoord",
+    "ModalSaveButton": "Verander wachtwoord",
+    "currentPassword": {
+      "label": "huidig ​​wachtwoord",
+      "placeholder": "huidig ​​wachtwoord",
+      "error_blank": "Voer het huidige wachtwoord in",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": "",
+      "show": "Tonen",
+      "hide": "Verbergen"
+    },
+    "newPassword": {
+      "label": "nieuw paswoord",
+      "placeholder": "nieuw paswoord",
+      "error_blank": "Voer nieuw wachtwoord in",
+      "error_minLength": "Minimaal 6 tekens zijn vereist",
+      "error_maxLength": "Maximaal 15 tekens zijn toegestaan",
+      "error_pattern": "Voer een geldig wachtwoord in",
+      "show": "Tonen",
+      "hide": "Verbergen"
+    },
+    "confirmNewPassword": {
+      "label": "Bevestig nieuw wachtwoord",
+      "placeholder": "Bevestig nieuw wachtwoord",
+      "error_blank": "Voer alstublieft Nieuw wachtwoord bevestigen in",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": "Nieuw wachtwoord en Bevestig nieuw wachtwoord komen niet overeen",
+      "show": "Tonen",
+      "hide": "Verbergen"
+    }
+  },
+  "termsAndCondition": {
+    "terms":"<p><strong>Yachtsman Euromarine</strong><br>First Floor, Abbey Moat House,<br>Abbey Street, Naas, Co Kildare Ireland<br>Phone:&nbsp; +353 (0) 45 982668<br>Fax:&nbsp; +353 (0) 45 902983<br>Email:&nbsp; quote@yachtsman.ie<br>Web Site:&nbsp; www.yachtsman.ie</p>"
+  }
+}

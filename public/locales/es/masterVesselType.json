@@ -1,0 +1,52 @@
+{
+    "Header": "Tipo de embarcación",
+
+    "ClassId": {
+        "label": "Identificador de clase"
+    },
+
+    "ClassName": {
+        "label": "Nombre de la clase",
+        "defaultValue": "Seleccionar nombre de clase",
+        "error": "Por favor seleccione el nombre de la clase"
+    },
+
+    "VesselType": {
+        "label": "Tipo de embarcación",
+        "placeholder": "Tipo de embarcación",
+        "error_blank": "Por favor, introduzca un tipo de barco válido",
+        "error_minLength": "",
+        "error_maxLength": "El tipo de embarcación no puede ser superior a 100",
+        "error_pattern":"Please enter valid vessel type"
+    },
+
+    "AddVesselType": "Añadir tipo de embarcación",
+    "VesselTypeList": "Lista de tipo de embarcación",
+    "VesselTypes": "Vessel Types",
+
+    "DataTableHeaders": {
+        "ClassID": "Identificador de clase",
+        "ClassName": "Nombre de la clase",
+        "Type": "Tipo",
+        "Action": "Acción"
+    },
+
+    "ModalHeading": {
+        "Add": "Type schip toevoegen",
+        "Update": "Update type vaartuig"
+    },
+
+    "Toast":{
+        "Saved":"Tipo de embarcación guardada con éxito",
+        "Updated": "Tipo de buque actualizado con éxito",
+        "Delete": "Vessel Type deleted Successfully ",
+        "error": "Vessel Type already exist"
+    },
+
+    "Delete": {
+        "label": "Delete Vessel Type ?",
+        "message": "Are you sure, You want to delete Vessel Type ?",
+        "No": "No",
+        "Yes": "Yes"
+    }
+}

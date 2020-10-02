@@ -1,0 +1,14 @@
+{
+    "AlreadyPurchasedCoverage":{
+        "label" : "Cobertura adicional ya comprada",
+        "PolicyOption" : "Opción de política",
+        "Premium" : "Primo",
+        "Action" : "Acción"
+    },
+    "AvailableToPurchaseCoverage":{
+        "label" : "Cobertura adicional disponible para comprar",
+        "PolicyOption" : "Opción de política",
+        "Premium" : "Primo",
+        "AddToMyPolicy" : "Agregar a mi política"
+    }
+}

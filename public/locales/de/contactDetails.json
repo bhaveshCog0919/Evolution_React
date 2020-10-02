@@ -1,0 +1,361 @@
+{
+  "Contact#": "Contact#",
+  "EditContactCode": "Bewerk Contact Code",
+  "ContactCode": "Contact Code",
+  "ContactCodeError": "Voer de contactcode in",
+  "ChangePicture": "Verander afbeelding",
+  "ContactType": {
+    "label": "contact type",
+    "defaultValue": "Selecteer Contacttype",
+    "error": "Selecteer een contacttype"
+  },
+  "Individual": "individu",
+  "Company": "Bedrijf",
+  "isCompanyError": "Selecteer Bedrijf",
+  "CompanyName": {
+    "label": "Bedrijfsnaam",
+    "error_blank": "Voer de bedrijfsnaam in",
+    "error_minLength": "",
+    "error_maxLength": "Bedrijfsnaam mag niet meer dan 100 tekens bevatten",
+    "error_pattern": "El nombre de la compañía no es válido"
+  },
+  "Name": "Naam",
+  "Title": {
+    "label": "Titel",
+    "defaultValue": "Selecteer",
+    "error": "Selecteer Titel"
+  },
+  "FirstName": {
+    "label": "Voornaam",
+    "error_blank": "Voer uw voornaam in",
+    "error_minLength": "Minimaal 3 tekens vereist",
+    "error_maxLength": "De voornaam is niet groter dan 25 tekens",
+    "error_pattern": "Voer een geldige voornaam in"
+  },
+  "LastName": {
+    "label": "Achternaam",
+    "error_blank": "Voer de achternaam in",
+    "error_minLength": "Minimaal 3 tekens vereist",
+    "error_maxLength": "Achternaam is niet meer dan 25 tekens",
+    "error_pattern": "Voer een geldige achternaam in"
+  },
+  "Salutation": {
+    "label": "Begroeting",
+    "error_blank": "Voer een geldige aanhef in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Voer een geldige aanhef in"
+  },
+  "PassportNumber": {
+    "label": "Paspoortnummer",
+    "error_blank": "Por favor, introduzca el número de pasaporte",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Voer een geldig paspoortnummer in"
+  },
+  "PassportCountry": {
+    "label": "Paspoortland",
+    "error_blank": "",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "BusinessType": {
+    "label": "Soort bedrijf",
+    "error_blank": "Voer het bedrijfstype in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "CompanyIdentifier": {
+    "label": "Bedrijfsidentificatie",
+    "error_blank": "Voer de bedrijfsidentificatie in",
+    "error_minLength": "",
+    "error_maxLength": "Bedrijfsidentificatie is niet groter dan 100 tekens",
+    "error_pattern": ""
+  },
+  "Gender": "Geslacht",
+  "GenderError": "Selecteer geslacht",
+  "Male": "Mannetje",
+  "Female": "Vrouw",
+  "DOB": {
+    "label": "Geboortedatum",
+    "error_blank": "Voer de geboortedatum in",
+    "erro_minLength": "Voer een geldige geboortedatum in",
+    "error_maxLength": "Voer een geldige geboortedatum in",
+    "error_pattern": ""
+  },
+  "Address": "Adres",
+  "Country": {
+    "label": "land",
+    "error": "Selecteer land"
+  },
+  "Line1": {
+    "label": "Lijn 1",
+    "placeholder": "Adres regel 1",
+    "error_blank": "Voer adresregel 1 in",
+    "error_minLength": "",
+    "error_maxLength": "Maximaal 150 tekens zijn toegestaan",
+    "error_pattern": ""
+  },
+  "Line2": {
+    "label": "Lijn 2",
+    "placeholder": "Adres lijn 2",
+    "error_blank": "Voer adresregel2 in",
+    "error_minLength": "",
+    "error_maxLength": "Maximaal 150 tekens zijn toegestaan",
+    "error_pattern": ""
+  },
+  "Line3": {
+    "label": "line3",
+    "placeholder": "Adresregel3",
+    "error_blank": "Voer adresregel 3 in",
+    "error_minLength": "",
+    "error_maxLength": "Maximaal 150 tekens zijn toegestaan",
+    "error_pattern": ""
+  },
+  "County": {
+    "label": "County / Provincie",
+    "placeholder": "County / Provincie",
+    "error": "Voer provincie / provincie in"
+  },
+  "Town": {
+    "label": "Stad",
+    "placeholder": "Stad",
+    "error": "Voer de stad in"
+  },
+  "PostalCode": {
+    "label": "Postcode",
+    "error_blank": "Voer een geldige postcode in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "PhoneHeader": "Telefoon",
+  "PhonesError": "Voer ten minste één telefoonnummer in",
+  "PhoneType": {
+    "label": "Type",
+    "defaultValue": "kiezen",
+    "error": "Selecteer telefoontype"
+  },
+  "CountryCode": {
+    "label": "Landcode",
+    "defaultValue": "kiezen",
+    "error": "Selecteer landcode"
+  },
+  "AreaCode": {
+    "label": "Netnummer",
+    "placeholder": "Netnummer",
+    "error_blank": "Voer een geldig netnummer in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "Phone": {
+    "label": "Telefoon",
+    "placeholder": "Telefoonnummer",
+    "error_blank": "Voer telefoonnummer in",
+    "error_minLength": "Minimaal 6 cijfers zijn vereist",
+    "error_maxLength": "Maximaal 10 cijfers zijn toegestaan",
+    "error_pattern": "Voer een geldig telefoonnummer in"
+  },
+  "EnterLandLine": "Voer het netnummer in",
+  "HideLandLine": "Netnummer verbergen",
+  "EnterExt": "Voer Ext",
+  "HideExt": "Verberg Ext",
+  "PhonePrimary": "primair",
+  "PhoneMakePrimary": "Voorop stellen",
+  "PhoneAlreadyExist": "Telefoonnummer bestaat al in de lijst",
+  "EmailAlreadyExist": "E-mail-ID bestaat al in de lijst",
+  "EmailHeader": "E-mail",
+  "EmailsError": "Voer ten minste één e-mailadres in",
+  "EmailType": {
+    "label": "Type",
+    "defaultValue": "kiezen",
+    "error": "Selecteer e-mailtype"
+  },
+  "Email": {
+    "label": "E-mail",
+    "placeholder": "E-mail",
+    "error_blank": "Voer alstublieft e-mail in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Voer een geldig emailadres in"
+  },
+  "EmailPrimary": "primair",
+  "EmailMakePrimary": "Voorop stellen",
+  "ContactPreference": "Contact voorkeur",
+  "OktoContact": "Ok om contact op te nemen",
+  "DonotContact": "Niet contact",
+  "ContactMode": "Contactmodus",
+  "DocumentDelivery": {
+    "label": "Document levering",
+    "Email": "E-mail",
+    "Post": "Post",
+    "Both": "Beide",
+    "Error": "Selecteer de optie voor documentlevering"
+  },
+  "Notes": {
+    "label": "Notes",
+    "placeholder": "Notes",
+    "error_blank": "",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "CentralBankCode": {
+    "label": "Centrale Bank Code",
+    "placeholder": "Centrale Bank Code",
+    "error_blank": "Voer de Central Bank Code in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "CommossionRate": {
+    "label": "Commissietarief",
+    "placeholder": "Commissietarief",
+    "error_blank": "Geef het percentage op",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "Geef alstublieft een geldig tarief op"
+  },
+  "Binder": {
+    "label": "binder",
+    "placeholder": "",
+    "defaultValue": "",
+    "error": ""
+  },
+  "AllowedLogin": {
+    "label": "Mag je inloggen?",
+    "No": "Nee",
+    "Yes": "Ja"
+  },
+  "UserName": {
+    "label": "Gebruikersnaam",
+    "placeholder": "Gebruikersnaam",
+    "error_blank": "Voer gebruikersnaam in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": ""
+  },
+  "Password": {
+    "label": "Wachtwoord",
+    "placeholder": "Wachtwoord",
+    "error_blank": "Voer alstublieft een geldig wachtwoord in",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "password_show": "Tonen",
+    "password_hide": "Verbergen"
+  },
+  "PasswordRules": {
+    "label": "Wachtwoord regels",
+    "uppercase": "Eén hoofdletter (upperCaseLetters) vereist",
+    "lowercase": "Een kleine (LowerCaseLetters) vereist",
+    "minlength": "Minimaal 8 tekens vereist",
+    "maxlength": "Maximaal 15 tekens toegestaan",
+    "specialcharacter": "Een speciaal teken vereist",
+    "number": "Eén nummer vereist"
+  },
+  "ConfirmPassword": {
+    "label": "bevestig wachtwoord",
+    "placeholder": "bevestig wachtwoord",
+    "error_blank": "Wachtwoord en wachtwoord bevestigen komt niet overeen",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "password_show": "Tonen",
+    "password_hide": "Verbergen"
+  },
+  "Question1": {
+    "label": "Beveiligingsvraag 1",
+    "defaultValue": "Selecteer vraag 1",
+    "error": "Selecteer vraag 1"
+  },
+  "Answer1": {
+    "label": "Antwoord",
+    "placeholder": "Antwoord",
+    "error": "Geef antwoord op vraag 1",
+    "error_blank": "Geef alstublieft uw antwoord",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "Tonen",
+    "hide": "Verbergen"
+  },
+  "Question2": {
+    "label": "Beveiligingsvraag 2",
+    "defaultValue": "Selecteer vraag 2",
+    "error": "Selecteer vraag 2"
+  },
+  "Answer2": {
+    "label": "Responder",
+    "placeholder": "Responder",
+    "error": "Geef antwoord op vraag 2",
+    "error_blank": "Por favor da tu respuesta",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "mostrar",
+    "hide": "Esconder"
+  },
+  "Question3": {
+    "label": "Beveiligingsvraag 3",
+    "defaultValue": "Selecteer vraag 3",
+    "error": "Selecteer vraag 3"
+  },
+  "Answer3": {
+    "label": "Responder",
+    "placeholder": "Responder",
+    "error": "Geef antwoord op vraag 3",
+    "error_blank": "Por favor da tu respuesta",
+    "error_minLength": "",
+    "error_maxLength": "",
+    "error_pattern": "",
+    "show": "mostrar",
+    "hide": "Esconder"
+  },
+  "QuestaionAlreadySelected": "Deze vraag is al geselecteerd",
+  "UniqueQuestion": "Alle vragen moeten uniek zijn",
+  "DeletePhone": {
+    "label": "Telefoon verwijderen?",
+    "message": "Weet u zeker dat u het telefoonnummer wilt verwijderen:",
+    "No": "Nee",
+    "Yes": "Ja"
+  },
+  "DeleteEmail": {
+    "label": "E-mail verwijderen?",
+    "message": "Weet u zeker dat u e-mail wilt verwijderen:",
+    "No": "Nee",
+    "Yes": "Ja"
+  },
+  "SetupPolicy":{
+    "header": "Nieuw beleid instellen?",
+    "message": "Wilt u een nieuw beleid opstellen?",
+    "No": "Nee",
+    "Yes": "Ja"
+  },
+  "ViewPage": {
+    "IndividualDetails": "Individuele details",
+    "CompanyDetails": "Bedrijfsgegevens",
+    "ContactDetails": "Contact details",
+    "PassportDetails": "Paspoort details",
+    "NoteDetails": "Notes",
+    "CollapseAll": "Alles inklappen",
+    "ExpandAll": "Alles uitvouwen",
+    "ModalHeader": "Contactgegevens bewerken",
+    "OptionDefault": "kiezen",
+    "OptionCorrect": "Correct",
+    "OptionIncorrect": "Niet correct",
+    "OptionError": "Selecteer een optie",
+    "CommentLabel": "Commentaar",
+    "CommentErrorBlank": "Voer een notitie in",
+    "CommentErrorMinLength": "",
+    "CommentErrorMaxLength": "",
+    "CommentErrorPattern": "",
+    "VerificationFailed": "Verificatie mislukt",
+    "VerificationDone": "Verificatie voltooid",
+    "SelectAnswerError": "Selecteer antwoord",
+    "AddCommentError": "Voeg commentaar toe om de gebruiker te verifiëren"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "mooringGuideTitle": "Mooring Guide",
+  "addMooringGuide": "Add Mooring Guide",
+  "Table_header": {
+    "mooringGuideId": "Id",
+    "mooringGuideName": "Name",
+    "mooringGuideCountry": "Country",
+    "mooringGuideCounty": "County/Region",
+    "mooringGuideLocation": "Location",
+    "mooringGuidLocationType": "Location Type",
+    "mooringGuideLoading": "Loading",
+    "mooringGuideType": "Mooring Type",
+    "mooringGuideApproval": "Approval Required"
+  },
+
+  "AddMooringGuide": {
+    "title": "Add Mooring Guide",
+    "name": {
+      "label": "Name",
+      "placeholder": "Name",
+      "error_blank": "Please enter valid moring name",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "type": {
+      "label": "Mooring Type",
+      "placeholder": "Select Mooring Type",
+      "error_blank": "Please enter valid moring name",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "country": {
+      "label": "country",
+      "placeholder": "Select country",
+      "error_blank": "Please select country",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "county": {
+      "label": "County / Region",
+      "placeholder": "County / Region",
+      "error_blank": "Please enter county",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "location": {
+      "label": "Location",
+      "placeholder": "Location",
+      "error_blank": "Please enter location",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "loction_type": {
+      "label": "Location Type",
+      "placeholder": "Select Location Type",
+      "error_blank": "Please select location type",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "coordinates": {
+      "label": "Coordinates",
+      "placeholder": "",
+      "error_blank": "Please select mooring co-ordinates from the map",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "zone": {
+      "label": "Zone",
+      "placeholder": "Select Zone",
+      "error_blank": "Please select zone",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "loading": {
+      "label": "Loading (%)",
+      "placeholder": "Loading (%)",
+      "error_blank": "Please enter mooring loading",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "approval_Required": {
+      "label": "Approval Required",
+      "placeholder": "Select Mooring Approval",
+      "error_blank": "Please select mooring approval",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    },
+
+    "notes": {
+      "label": "Notes",
+      "placeholder": "Notes",
+      "error_blank": "",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": ""
+    }
+  }
+}

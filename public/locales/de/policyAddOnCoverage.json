@@ -1,0 +1,18 @@
+{
+    "AlreadyPurchased": {
+        "title":"Add On Coverage Already Purchased",
+        "PolicyOption": "Policy Option",
+        "Premium": "Premium",
+        "AdminFees": "Admin Fees",
+        "Total": "Total",
+        "Action": "Action"
+    },
+    "AvailableToPurchase": {
+        "title":"Add On Coverage Available to Purchase",
+        "PolicyOption": "Policy Option",
+        "Premium": "Premium",
+        "AdminFees": "Admin Fees",
+        "Total": "Total",
+        "Action": "Add to my Policy"
+    }
+}

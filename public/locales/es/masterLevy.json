@@ -1,0 +1,97 @@
+{
+    "Header": "Exacción",
+
+    "Country": {
+        "label": "País",
+        "defaultValue": "Seleccionar país",
+        "error": "Por favor seleccione país"
+    },
+
+    "Type": {
+        "label": "Tipo",
+        "defaultValue": "Seleccione tipo",
+        "error": "Por favor seleccione tipo"
+    },
+
+    "Rate1": {
+        "label": "Tasa 1 (%)",
+        "placeholder": "Tasa 1 (%)",
+        "error_blank": "Por favor, introduzca la tasa válida 1 (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "Rate2": {
+        "label": "Tasa 2 (%)",
+        "placeholder": "Tasa 2 (%)",
+        "error_blank": "Ingrese la tarifa válida 2 (%)",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "RateBasis1": {
+        "label": "Tarifa base 1",
+        "defaultValue": "Seleccionar tarifa base 1",
+        "error": "Por favor seleccione tarifa base 1"
+    },
+
+    "RateBasis2": {
+        "label": "Tarifa base 2",
+        "defaultValue": "Seleccionar tarifa base 2",
+        "error": "Por favor seleccione tarifa base 2"
+    },
+
+    "AmountInEUR": {
+        "label": "Cantidad en EUR",
+        "placeholder": "Cantidad en EUR",
+        "error_blank": "Por favor, introduzca una cantidad válida en euros",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "AmountInGBP": {
+        "label": "Cantidad en GBP",
+        "placeholder": "Cantidad en GBP",
+        "error_blank": "Por favor ingrese una cantidad válida en gbp",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": ""
+    },
+
+    "DataTableHeaders": {
+        "Country": "País",
+        "Type": "Tipo",
+        "Rate1": "Tasa 1",
+        "RateBasis1": "Base de tarifas 1",
+        "Rate2": "Tasa 2",
+        "RateBasis2": "Tarifa base 2",
+        "AmountInEUR": "Cantidad en EUR",
+        "AmountInGBP": "Cantidad en GBP",
+        "Action": "Acción"
+    },
+
+    "ModalHeading": {
+        "Add": "Añadir Levy",
+        "Update": "Actualizar Levy"
+    },
+
+    "AddLevy": "Añadir Levy",
+    "LevyList": "Lista de impuestos",
+
+    "Toast":{
+        "Saved":"Levy se salvó con éxito",
+        "Updated": "Levy actualizado con éxito",
+        "Delete": "Levy deleted Successfully ",
+        "error": "Country already exist"
+    },
+
+    "Delete": {
+        "label": "Delete Levy ?",
+        "message": "Are you sure, You want to delete levy ?",
+        "No": "No",
+        "Yes": "Yes"
+    }
+}

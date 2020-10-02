@@ -1,0 +1,36 @@
+{
+    "Table_header": {
+        "EndorsementType": "EndorsementType",
+        "Number": "Number",
+        "Title": "Title",
+        "Status": "Status",
+        "Action": "Action"
+    },
+    "EndorsementList#": "Endorsement List",
+    "EndorsementType": "Endorsement Type",
+    "ClassName": {
+        "label": "Class Name",
+        "defaultValue": "Select class name",
+        "error": "Please select class name"
+    },
+    "EditEndorsement": "Edit Endorsement",
+    "AddEndorsement": "Add Endorsement",
+    "ModalEndorsementType": "Endorsement Type:",
+    "ModalVesselClass": 
+    {
+        "label": "Vessel Class:",
+        "defaultValue": "Select class name"
+    },
+    "ModalClassId": "Class Id:",
+    "ModalNumber": "Number",
+    "ModalTitle": {
+        "label": "Title",
+        "error": "Please enter endorsement title"
+    },
+    "ModalStatus": {
+        "label": "Status",
+        "defaultValue": "Select status",
+        "error": ""
+    }
+
+}

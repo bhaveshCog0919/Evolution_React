@@ -1,0 +1,66 @@
+{
+    "Header": "Vessel Class",
+
+    "ClassID": {
+        "label": "ClassID"
+    },
+
+    "ClassName": {
+        "label": "Class Name",
+        "placeholder": "Class Name",
+        "error_blank": "Please enter class name",
+        "error_minLength": "",
+        "error_maxLength": "Please enter valid class name",
+        "error_pattern": "Please enter valid class name"
+    },
+
+    "AdminFee": {
+        "label": "Admin Fee",
+        "placeholder": "Admin Fee",
+        "error_blank": "Please enter admin fee",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": "Please enter valid admin fee"
+    },
+
+    "Currency": {
+        "label": "Currency",
+        "default value": "Euro",
+        "error":""
+    },
+
+    "NoofTypes": "No. of Types",
+    "SortOrder": "Sort Order",
+    "VesselTypes": "Vessel Types",
+    "AddVesselClass": "Add Vessel Class",
+    "Export_File": "Vessel Class List",
+
+    "DataTableHeaders": {
+        "ClassID": "ClassID",
+        "ClassName": "Class Name",
+        "NoofTypes": "No. of Types",
+        "AdminFee": "Admin Fee",
+        "Currency": "Currency",
+        "SortOrder": "Sort Order",
+        "Action": "Action"
+    },
+
+    "ModalHeading": {
+        "Add": "Add Vessel Class",
+        "Update": "Update Vessel Class"
+    },
+
+    "Toast":{
+        "Saved":"Vessel Class saved successfully",
+        "Updated": "Vessel Class updated successfully",
+        "Delete": "Vessel Class deleted Successfully ",
+        "error": "Vessel Class already exist"
+    },
+
+    "Delete": {
+        "label": "Delete Vessel Class ?",
+        "message": "Are you sure, You want to delete Vessel Class ?",
+        "No": "No",
+        "Yes": "Yes"
+    }
+}

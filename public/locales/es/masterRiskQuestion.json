@@ -1,0 +1,13 @@
+{
+    "RiskQuestion": {
+        "title":"Risk Question",
+        "Category": "Category",
+        "Group": "Group",
+        "QuestionCode": "Question Code",
+        "Question": "Question",
+        "IsRated": "Is Rated?",
+        "ResponseType": "Response Type",
+        "RatingType": "Rating Type",
+        "Action": "Action"
+    }
+}

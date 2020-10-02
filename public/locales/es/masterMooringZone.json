@@ -1,0 +1,19 @@
+{
+    "mooringZoneTitle": "Mooring Zone",
+    "addMooringZone": "Add Mooring Zone",
+    "Table_header": {
+        "mooringZoneId": "ID",
+        "mooringZoneTitle": "Title",
+        "mooringZoneSummary": "Summary",
+        "mooringZoneCreated": "Created",
+        "mooringZoneUpdated": "Updated"
+    },
+
+    "addMooringZoneTitle": {
+        "mooringZonetitle": "Add Mooring Zone",
+        "title": "Title",
+        "summary": "Summary",
+        "otherMooringZoneLocations": "Other Mooring Locations",
+        "activeMooringZoneLocations": "Active Mooring Locations"
+    }
+}

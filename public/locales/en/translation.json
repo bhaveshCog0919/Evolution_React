@@ -1,0 +1,87 @@
+{
+  "loginData": {
+    "title": "Login",
+    "description": "Sign In to your account",
+    "username": {
+      "placeholder": "Username",
+      "error": "Please enter username"
+    },
+    "password": {
+      "placeholder": "Password",
+      "error": "Please enter password"
+    },
+    "button": "Login",
+    "signup": "Sign up",
+    "registerdescription": "Register Page",
+    "forgotpassword": "Forgot password?",
+    "registerbutton": "Register Now!"
+  },
+
+  "labels": {
+    "globalSearchLabel": "Global Search",
+    "shoeHideColumnLabel": "Show / Hide Column",
+    "ActionLabel": "Action"
+  },
+
+  "buttons": {
+    "Save": "Save",
+    "saveAndExit": "Save & Exit",
+    "Add": "Add",
+    "Edit": "Edit",
+    "Delete": "Delete",
+    "Close": "Close",
+    "Reset": "Reset",
+    "Back": "Back",
+    "Update": "Update",
+    "Cancel": "Cancel",
+    "BackToPolicy": "Back to policy list",
+    "exportAsCSVLabel": "Export as CSV",
+    "View": "View",
+    "Generate": "Generate",
+    "Yes": "Yes",
+    "No": "No",
+    "Go": "Go"
+  },
+
+  "mandatoryFieldMsg": "Fields marked with * are mandatory",
+
+  "NoRecordsMsg": "No records found",
+
+  "ChangePassword": {
+    "ModalHeader": "Change Password",
+    "ModalSaveButton": "Change Password",
+    "currentPassword": {
+      "label": "Current Password",
+      "placeholder": "Current Password",
+      "error_blank": "Please enter Current Password",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": "",
+      "show": "Show",
+      "hide": "Hide"
+    },
+    "newPassword": {
+      "label": "New Password",
+      "placeholder": "New Password",
+      "error_blank": "Please enter New Password",
+      "error_minLength": "Minimum 6 characters are required",
+      "error_maxLength": "Maximum 15 characters are allowed",
+      "error_pattern": "Please enter valid Password",
+      "show": "Show",
+      "hide": "Hide"
+    },
+    "confirmNewPassword": {
+      "label": "Confirm New Password",
+      "placeholder": "Confirm New Password",
+      "error_blank": "Please enter Confirm New Password",
+      "error_minLength": "",
+      "error_maxLength": "",
+      "error_pattern": "New Password and Confirm New Password dosen't match",
+      "show": "Show",
+      "hide": "Hide"
+    }
+  },
+  "termsAndCondition": {
+    "terms":"<p><strong>Yachtsman Euromarine</strong><br>First Floor, Abbey Moat House,<br>Abbey Street, Naas, Co Kildare Ireland<br>Phone:&nbsp; +353 (0) 45 982668<br>Fax:&nbsp; +353 (0) 45 902983<br>Email:&nbsp; quote@yachtsman.ie<br>Web Site:&nbsp; www.yachtsman.ie</p><p><strong>Authorised Status</strong></p><p>M.J.O’Neill (Insurances) Limited T/A Yachtsman&nbsp; Euromarine, Yachtsman Marine Insurance, Yachtsman&nbsp; Seguro de Barcos is authorised by the&nbsp; Central Bank of Ireland under Section 10 of the Investment Intermediaries Act 1995, as amended. Our&nbsp; firm is also registered as an insurance/reinsurance intermediary under the European Communities&nbsp; (Insurance Mediation) Regulations, 2005 (as&nbsp; amended). Copies of our authorisations are available&nbsp; on request. M.J.O’Neill (Insurances) Limited t/a&nbsp; Yachtsman Euromarine, Yachtsman Marine Insurance,&nbsp; Yachtsman Seguro de Barcos is also registered with the National Consumer Agency to act&nbsp; as a Credit Intermediary.</p><p>M.J.O’Neill (Insurance) Ltd t/a Yachtsman&nbsp; Euromarine, Yachtsman Marine Insurance, Yachtsman&nbsp; Seguro de Barcos is subject to and&nbsp; complies with the Consumer Protection Code, The&nbsp; Handbook of Prudential Requirements for Investment&nbsp; Intermediaries, Minimum Competency Code and the Fitness &amp; Probity Standards as laid down by the&nbsp; Central Bank of Ireland. </p><p>We offer advice on Marine Insurance products on a&nbsp; limited analysis basis, exclusive to Yachtsman&nbsp; Euromarine, as underwriting agents for various underwriters at Lloyds of London and specialist&nbsp; pleasure craft insurers. Insurers we consider include&nbsp; MS Amlin Underwriting Ltd, Watkins Syndicate at&nbsp; Lloyds, Navigator &amp; General, Yachtline Marine&nbsp; Insurance Solutions, and Aviva. Our service includes&nbsp; advising you on your insurance needs, arranging your insurance cover and helping you with on-going&nbsp; changes if required during the insurance year. As the&nbsp; underwriting agents we also have authority to&nbsp; investigate and settle claims on behalf of insurers. </p><p>Yachtsman Euromarine also offers the service of “Boat&nbsp; Advisory Check” which can be carried out by request of&nbsp; the client or by the request of insurers, if required to assess the condition of your vessel for the purposes&nbsp; of Marine Insurance. The cost of this report is charged&nbsp; separate to your insurance premium, as it is a service provided by Yachtsman Euromarine and is not&nbsp; regulated by the Central Bank of Ireland. </p><p>As a Credit Intermediary the firm can arrange personal loans for the purpose of paying your insurance premium only. </p><p><strong>Remuneration Policy<br></strong></p><p>Yachtsman Euromarine is remunerated by a&nbsp; commission from the insurer taking on the risk. This&nbsp; can vary from 15% to 30% of the premium, depending on the class of business, details of which are available&nbsp; on request. We may also receive additional payments&nbsp; from insurers based on profit sharing or other&nbsp; arrangements. On pleasure craft insurance we may&nbsp; also apply an administration charge up to €40.00 on&nbsp; new or renewal business and a midterm adjustment fee of €25.00. A fee a €20.00 will be charged for all&nbsp; duplicate documentation. On Marine trade /&nbsp; commercial policies an administration fee of €100.00&nbsp; will be charged on new and renewal business and a&nbsp; mid-term adjustment fee of €40.00. We reserve the&nbsp; right to amend these fees should the complexity of the product require a higher fee. We will confirm this fee&nbsp; with you prior to any increased charge being applied.&nbsp; Commissions received are not offset against fees&nbsp; chargeable. </p><p><strong>Conflict of Interest and Complaints<br></strong></p><p>It is the policy of Yachtsman Euromarine to avoid any&nbsp; conflict of interest when providing business services to its&nbsp; clients. However, where an unavoidable conflict may arise, we will advise you of this in writing before&nbsp; providing any business service. If you have not been&nbsp; advised of any such conflict you may assume that none arises. </p><p>Yachtsman Euromarine has a written procedure in&nbsp; place for the effective consideration and handling of complaints. This procedure ensures that complaints&nbsp; will be recorded and written complaints acknowledge in writing within 5 days. All complaints will be fully&nbsp; investigated and the outcome of the investigation will&nbsp; be communicated to the person who raised the&nbsp; complaint. Further details regarding each insurer’s&nbsp; complaints procedures are available in your policy&nbsp; document. </p><p><strong>Investor Compensation Company Ltd (ICCL) Scheme<br></strong></p><p>Yachtsman Euromarine is a member of the Investor&nbsp; Compensation Scheme Established under the Investor Compensation Act 1988. This legislation provides for&nbsp; the establishment of a compensation scheme and to&nbsp; the payment, in certain circumstances, of&nbsp;&nbsp; compensation to clients of firms covered by the act.&nbsp; However, you should be aware that a right to&nbsp; compensation will only arise where money or&nbsp; investment instruments held by this firm on your&nbsp; behalf cannot be returned either for the time being or&nbsp; the foreseeable future and where the client falls within the definition of eligible investor as contained in the&nbsp; act. In the event that a right to compensation is&nbsp; established, the amount payable is the lesser of 90 per&nbsp; cent of your loss which is recognised as being eligible&nbsp; for compensation or €20,000. In addition to the&nbsp; compensation available under the “Investment&nbsp; Compensation Act, 1988” Yachtsman Euromarine is&nbsp; bonded through its membership of IBA for €200,000 with an inner limit of €65,000 per client. </p><p><strong>Handling Clients’ Money<br></strong></p><p>Yachtsman Euromarine will accept payment in cash,&nbsp; cheque and debit / credit cards in respect of all classes&nbsp; of insurance in the circumstances permitted under&nbsp; Section 25G of the Investment Intermediaries Act,&nbsp; 1995. We are not authorised to accept cash or&nbsp; negotiable instruments in any other circumstances.&nbsp; Payments made by debit / credit / laser cards will be subject to an additional processing fee of €3.80. If you&nbsp; choose to automatically renew your policy by selecting&nbsp; the relevant tick box option, we may hold your&nbsp; payment details, securely, on file and take payment at&nbsp; the next renewal date. You can at any time prior to&nbsp; renewal request that your details are removed. </p><p><strong>Failure to pay or default<br></strong></p><p>We reserve the right to instigate cancellation proceeding in the event of the following:</p><ol><li>Your non-payment of the premium due at inception, renewal or following a mid-term adjustment.</li><li>Your bank returns your cheque or direct debt mandate due to insufficient funds or any other reason.</li><li>Non disclosure of relevant information</li></ol><p>If your policy is cancelled, we will send you documentation confirming the cancelation. We advise that you also read your policy document so you<br>understand the full terms and conditions set out by your insurer.</p><p><strong>Receipts</strong></p><p>Yachtsman Euromarine shall issue a receipt for each&nbsp; non-negotiable or negotiable instrument or payment&nbsp; received. This is required pursuant to Section 30 of the&nbsp; Investment Intermediaries Act, 1995. These are issued&nbsp; with your protection in mind and should be stored safely.</p><p><strong>Claims</strong></p><p>As the underwriting agent for the insurer of your policy&nbsp; we also have authority to investigate / settle claims on&nbsp; their behalf. We will provide a claims handling service for&nbsp; as long as you are a client, and will provide you with&nbsp; reasonable guidance in pursuing your claim. We will&nbsp; handle claims fairly, promptly and keep you advised of development.</p><p><strong>Data Protection<br></strong></p><p>M.J.O’Neill (Insurance) Ltd t/a Yachtsman&nbsp; Euromarine is a Data Controller as defined in the Data&nbsp; Protection Act of 25th of May 2018. We collect your personal details in order to provide the highest&nbsp; standard of service to you. We take great care with the&nbsp; information provided; taking steps to keep it secure and to ensure that it is only used for legitimate&nbsp; purposes. To fulfil these objectives, we may share&nbsp; information with other affiliated professionals. The information and other data provided to our office may&nbsp; be used to advise you of products and services we may&nbsp; offer from time to time. You have the right at any time&nbsp; to opt out of our marketing or request a copy of any&nbsp; personal data within the meaning of the Data&nbsp; Protection Act of 25th May 2018 (as amended or re-enacted from time to time) that our firm holds about&nbsp; you and to have any inaccuracies in the information&nbsp; corrected. Our client’s personal data is confidential&nbsp; and available only to our firm, we do not pass on&nbsp; clients details to any other firm unless instructed to do&nbsp; so by our client </p>"
+  }
+}

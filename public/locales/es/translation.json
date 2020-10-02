@@ -1,0 +1,81 @@
+{
+    "loginData": {
+      "title": "Iniciar sesión",
+      "description": "Iniciar sesión en su cuenta",
+      "username":{
+        "placeholder":"Nombre de usuario",
+        "error":"Por favor ingrese nombre de usuario"
+      },
+      "password":{
+        "placeholder":"Contraseña",
+        "error":"Por favor, ingrese contraseña"
+      },
+      "button":"Iniciar sesión",
+      "signup":"Regístrate",
+      "registerdescription":"Página de registro",
+      "forgotpassword":"¿Se te olvidó tu contraseña?",
+      "registerbutton":"¡Regístrate ahora!"
+    },
+  
+    "labels": {
+      "globalSearchLabel": "Búsqueda global",
+      "shoeHideColumnLabel": "Mostrar / Ocultar columna",
+      "ActionLabel": "Acción"
+    },
+  
+    "buttons": {
+      "Save": "Salvar",
+      "Add": "Añadir",
+      "Edit": "Editar",
+      "Delete": "Eliminar",
+      "Close": "Cerca",
+      "Back": "atrás",
+      "Update": "Actualizar",
+      "Cancel": "Cancel",
+      "BackToPolicy": "Volver a la lista de políticas",
+      "exportAsCSVLabel": "Exportar como CSV",
+      "View": "Ver",
+      "Generate": "Generar"
+    },
+
+    "mandatoryFieldMsg": "Los campos marcados con * son obligatorios",
+
+    "ChangePassword": {
+      "ModalHeader": "Cambia la contraseña",
+      "ModalSaveButton": "Cambia la contraseña",
+      "currentPassword": {
+        "label": "contraseña actual",
+        "placeholder": "contraseña actual",
+        "error_blank": "Por favor, introduzca la contraseña actual",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": "",
+        "show": "mostrar",
+        "hide": "Esconder"
+      },
+      "newPassword": {
+        "label": "Nueva contraseña",
+        "placeholder": "Nueva contraseña",
+        "error_blank": "Por favor, introduzca una nueva contraseña",
+        "error_minLength": "Se requieren un mínimo de 6 caracteres.",
+        "error_maxLength": "Se permiten un máximo de 15 caracteres.",
+        "error_pattern": "Por favor ingrese una contraseña válida",
+        "show": "mostrar",
+        "hide": "Esconder"
+      },
+      "confirmNewPassword": {
+        "label": "Confirmar nueva contraseña",
+        "placeholder": "Confirmar nueva contraseña",
+        "error_blank": "Por favor, ingrese Confirmar nueva contraseña",
+        "error_minLength": "",
+        "error_maxLength": "",
+        "error_pattern": "Nueva contraseña y confirmar nueva contraseña no coinciden",
+        "show": "mostrar",
+        "hide": "Esconder"
+      }
+    },
+    "termsAndCondition": {
+      "terms":"<p><strong>Yachtsman Euromarine</strong><br>First Floor, Abbey Moat House,<br>Abbey Street, Naas, Co Kildare Ireland<br>Phone:&nbsp; +353 (0) 45 982668<br>Fax:&nbsp; +353 (0) 45 902983<br>Email:&nbsp; quote@yachtsman.ie<br>Web Site:&nbsp; www.yachtsman.ie</p>"
+    }
+  }
+  
