@@ -20,11 +20,10 @@ jobs:
       with:
         node-version: '10.14'
 
-    - name: npm install, build, and test
+    - name: npm install, build
       run: |
         npm install
         CI=false npm run build
-        npm run test --if-present
 
     - name: 'Deploy to Azure Web App'
       uses: azure/webapps-deploy@v2
