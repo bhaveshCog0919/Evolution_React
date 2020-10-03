@@ -1,3 +1,3 @@
 
-const apiBase = 'http://localhost:4110/';
+const apiBase = 'https://evolutionuat-uatapi.azurewebsites.net/';
 export {apiBase};
