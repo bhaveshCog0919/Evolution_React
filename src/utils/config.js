@@ -1,3 +1,3 @@
 
-const apiBase = 'https://evolutionuat-uatapi.azurewebsites.net/';
+const apiBase = 'https://yachmanapi.azurewebsites.net/';
 export {apiBase};
